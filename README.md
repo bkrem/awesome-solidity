@@ -30,6 +30,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 ## Tools
 #### General
 - [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
+
 #### Atom Packages
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
 - [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses your Solidity files to give you contextual autocomplete suggestions.
