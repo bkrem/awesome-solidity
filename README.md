@@ -9,6 +9,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
     - [Tutorials](#tutorials)
     - [Examples](#examples)
 - [Tools](#tools)
+    - [General](#general)
     - [Atom Packages](#atom-packages)
 
 
