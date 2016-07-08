@@ -28,6 +28,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 
 #### Examples
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples.
+- [Double-Linked List](https://github.com/o0ragman0o/ll/blob/master/LinkedList.sol) - Implementation of a double-linked list as a Solidity contract.
 
 
 ## Libraries
