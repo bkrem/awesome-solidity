@@ -10,8 +10,13 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 
 
 ## Resources
+#### Official
 - [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code
 - [Official docs](http://solidity.readthedocs.io/en/latest/) - Official documentation
 - [Gitter](https://gitter.im/ethereum/solidity/) - Official Solidity Gitter channel
+
+#### Examples
+- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples by @fivedogit
+
 
 ## Tools
