@@ -3,12 +3,11 @@
 A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) tools, resources and more
 
 ### Contents
-
 - [Resources](#resources)
     - [Official](#official)
     - [Tutorials](#tutorials)
     - [Examples](#examples)
-    - [Libraries](#libraries)
+- [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
     - [Atom Packages](#atom-packages)
@@ -30,7 +29,8 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 #### Examples
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples.
 
-#### Libraries
+
+## Libraries
 - [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - A proof-of-concept for the Solidity standard library.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - A list of collections of Solidity code and utility libraries.
 
