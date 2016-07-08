@@ -11,9 +11,11 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 
 ## Resources
 #### Official
+- [Docs](http://solidity.readthedocs.io/en/latest/) - Official documentation
+    - [FAQ](http://solidity.readthedocs.io/en/latest/frequently-asked-questions.html)
 - [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code
-- [Official docs](http://solidity.readthedocs.io/en/latest/) - Official documentation
-- [Gitter](https://gitter.im/ethereum/solidity/) - Official Solidity Gitter channel
+- [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board
+- [Gitter](https://gitter.im/ethereum/solidity/) - Solidity Gitter channel
 
 #### Tutorials
 - [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Although targeted more at the Eris platform specifically, this tutorial teaches how to gradually increase the complexity of Solidity contracts in general
