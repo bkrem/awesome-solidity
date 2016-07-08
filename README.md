@@ -5,8 +5,11 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 ### Contents
 
 - [Resources](#resources)
-
+    - [Official](#official)
+    - [Tutorials](#tutorials)
+    - [Examples](#examples)
 - [Tools](#tools)
+    - [Atom Packages](#atom-packages)
 
 
 ## Resources
