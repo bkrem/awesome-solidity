@@ -16,7 +16,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [Gitter](https://gitter.im/ethereum/solidity/) - Official Solidity Gitter channel
 
 #### Examples
-- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples by @fivedogit
+- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples
 
 
 ## Tools
