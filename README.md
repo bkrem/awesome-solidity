@@ -8,6 +8,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
     - [Official](#official)
     - [Tutorials](#tutorials)
     - [Examples](#examples)
+    - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
     - [Atom Packages](#atom-packages)
@@ -18,6 +19,8 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [Docs](http://solidity.readthedocs.io/en/latest/) - Official documentation.
     - [FAQ](http://solidity.readthedocs.io/en/latest/frequently-asked-questions.html)
 - [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code.
+- [Ethereum Wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki.
+    - [Solidity Features](https://github.com/ethereum/wiki/wiki/Solidity-Features) - A list to explain and demonstrate new Solidity features as soon as they are completed.
 - [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
 - [Gitter](https://gitter.im/ethereum/solidity/) - Solidity Gitter channel.
 
@@ -26,6 +29,10 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 
 #### Examples
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples.
+
+#### Libraries
+- [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - A proof-of-concept for the Solidity standard library.
+- [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - A list of collections of Solidity code and utility libraries.
 
 
 ## Tools
