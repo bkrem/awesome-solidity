@@ -14,6 +14,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
     - [General](#general)
     - [JavaScript](#javascript)
     - [Webpack](#webpack)
+- [Editors](#editors)
     - [Atom Packages](#atom-packages)
     - [Emacs](#emacs)
     - [Vim](#vim)
@@ -62,7 +63,8 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 #### Webpack
 - [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader for Solidity.
 
-#### Atom Packages
+## Editors
+#### Atom
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
 - [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses your Solidity files to give you contextual autocomplete suggestions.
 - [linter-solidity](https://atom.io/packages/linter-solidity) - Solidity linter.
