@@ -56,3 +56,6 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 
 #### Vim
 - [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity.
+
+#### Visual Studio
+- [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension for Solidity.
