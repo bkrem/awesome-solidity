@@ -27,7 +27,8 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [Gitter](https://gitter.im/ethereum/solidity/) - Solidity Gitter channel.
 
 #### Tutorials
-- [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Although targeted more at the Eris platform specifically, this tutorial teaches how to gradually increase the complexity of Solidity contracts in general.
+- [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts in general via relevant design patterns.
+- [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced Solidity.
 
 #### Examples
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples.
