@@ -1,6 +1,8 @@
 # awesome-solidity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) tools, resources and more
+A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) tools, resources and more.
+
+**Looking for contributors, feel free to put in a pull request if you have something to add :)**
 
 ### Contents
 - [Resources](#resources)
