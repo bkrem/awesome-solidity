@@ -2,6 +2,7 @@
 
 A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) tools, resources and more.
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  
 **Looking for contributors, feel free to put in a pull request if you have something to add :)**
 
 ### Contents
