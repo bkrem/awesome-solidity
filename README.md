@@ -47,4 +47,4 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [linter-solidity](https://atom.io/packages/linter-solidity) - Solidity linter.
 
 #### Emacs
-[emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs
+- [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs
