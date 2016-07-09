@@ -25,7 +25,7 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 ## Resources
 #### Official
 - [Docs](http://solidity.readthedocs.io/en/latest/) - Official documentation.
-    - [FAQ](http://solidity.readthedocs.io/en/latest/frequently-asked-questions.html)
+    - [FAQ](http://solidity.readthedocs.io/en/latest/frequently-asked-questions.html) - Frequently asked question about Solidity.
 - [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code.
 - [Ethereum Wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki.
     - [Solidity Features](https://github.com/ethereum/wiki/wiki/Solidity-Features) - A list to explain and demonstrate new Solidity features as soon as they are completed.
