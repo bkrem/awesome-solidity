@@ -12,6 +12,8 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
+    - [JavaScript](#javascript)
+    - [Webpack](#webpack)
     - [Atom Packages](#atom-packages)
     - [Emacs](#emacs)
     - [Vim](#vim)
@@ -34,20 +36,31 @@ A curated list of awesome [Solidity](https://en.wikipedia.org/wiki/Solidity) too
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced Solidity.
 
 #### Examples
-- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Solidity contract examples.
+- [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
+- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Comprehensive collection of Solidity contract examples.
 - [Double-Linked List](https://github.com/o0ragman0o/ll/blob/master/LinkedList.sol) - Implementation of a double-linked list as a Solidity contract.
 - [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
+- [slockit/smart-contract](https://github.com/slockit/smart-contract) - Solidity smart contracts for the Slock.it project.
+- [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
 
 
 ## Libraries
 - [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - A proof-of-concept for the Solidity standard library.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - A list of collections of Solidity code and utility libraries.
+- [dappsys](https://github.com/nexusdev/dappsys) - A solidity contract system framework for flexible multi-contract dapps.
 
 
 ## Tools
 #### General
 - [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
 - [REPL](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL CLI.
+
+#### JavaScript
+- [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
+- [solidity-parser](https://github.com/ConsenSys/solidity-parser) - Solidity parser built in JavaScript.
+
+#### Webpack
+- [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader for Solidity.
 
 #### Atom Packages
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
