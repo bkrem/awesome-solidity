@@ -37,6 +37,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Tutorials
 - [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts in general via relevant design patterns.
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced Solidity.
+- [Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.lhsir2mzo) - Medium article on writing upgradable contracts.
 
 #### Examples
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
