@@ -62,6 +62,9 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
 - [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
 
+#### Utility
+- [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing solidity contracts using go-ethereum and the simulated chain.
+
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
 - [solidity-parser](https://github.com/ConsenSys/solidity-parser) - Solidity parser built in JavaScript.
