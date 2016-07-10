@@ -28,11 +28,11 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Official
 - [Docs](http://solidity.readthedocs.io/en/latest/) - Official documentation.
     - [FAQ](http://solidity.readthedocs.io/en/latest/frequently-asked-questions.html) - Frequently asked question about Solidity.
-- [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code.
 - [Ethereum Wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki.
     - [Solidity Features](https://github.com/ethereum/wiki/wiki/Solidity-Features) - A list to explain and demonstrate new Solidity features as soon as they are completed.
 - [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
 - [Gitter](https://gitter.im/ethereum/solidity/) - Solidity Gitter channel.
+- [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code.
 
 #### Tutorials
 - [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts in general via relevant design patterns.
@@ -40,27 +40,27 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.lhsir2mzo) - Medium article on writing upgradable contracts.
 
 #### Examples
-- [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
-- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Comprehensive collection of Solidity contract examples.
-- [Double-Linked List](https://github.com/o0ragman0o/ll/blob/master/LinkedList.sol) - Implementation of a double-linked list as a Solidity contract.
-- [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
-- [slockit/smart-contract](https://github.com/slockit/smart-contract) - Solidity smart contracts for the Slock.it project.
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
+- [Double-Linked List](https://github.com/o0ragman0o/ll/blob/master/LinkedList.sol) - Implementation of a double-linked list as a Solidity contract.
+- [slockit/smart-contract](https://github.com/slockit/smart-contract) - Solidity smart contracts for the Slock.it project.
+- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Comprehensive collection of Solidity contract examples.
+- [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
+- [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 
 
 ## Libraries
-- [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - A proof-of-concept for the Solidity standard library.
-- [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - A list of collections of Solidity code and utility libraries.
 - [dappsys](https://github.com/nexusdev/dappsys) - A solidity contract system framework for flexible multi-contract dapps.
-- [Truffle](https://github.com/ConsenSys/truffle) - Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
+- [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - A list of collections of Solidity code and utility libraries.
+- [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - A proof-of-concept for the Solidity standard library.
+- [Truffle](https://github.com/ConsenSys/truffle) - Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
 
 
 ## Tools
 #### General
-- [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
 - [REPL](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL CLI.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
+- [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
 
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
@@ -71,8 +71,8 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Editors
 #### Atom
-- [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
 - [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses your Solidity files to give you contextual autocomplete suggestions.
+- [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
 - [linter-solidity](https://atom.io/packages/linter-solidity) - Solidity linter.
 
 #### Emacs
