@@ -59,6 +59,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### General
 - [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
 - [REPL](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL CLI.
+- [solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
 
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
