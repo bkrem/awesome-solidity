@@ -42,6 +42,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Examples
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
 - [Double-Linked List](https://github.com/o0ragman0o/ll/blob/master/LinkedList.sol) - Implementation of a double-linked list as a Solidity contract.
+- [hello-eris](https://github.com/eris-ltd/hello-eris) - A HelloWorld NodeJS app for the Eris platform which demonstrates how Solidity contracts and a Node application can interface via JSON RPC.
 - [slockit/smart-contract](https://github.com/slockit/smart-contract) - Solidity smart contracts for the Slock.it project.
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Comprehensive collection of Solidity contract examples.
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
@@ -49,7 +50,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 
 ## Libraries
-- [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL. 
+- [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
 - [dappsys](https://github.com/nexusdev/dappsys) - A solidity contract system framework for flexible multi-contract dapps.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - A list of collections of Solidity code and utility libraries.
