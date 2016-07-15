@@ -14,6 +14,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
+    - [Utility](#utility)
     - [JavaScript](#javascript)
     - [Webpack](#webpack)
 - [Editor Plugins](#editor-plugins)
