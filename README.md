@@ -23,6 +23,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
     - [Vim](#vim)
     - [Visual Studio](#visual-studio)
 - [Miscellaneous](#miscellaneous)
+- [License](#license)
 
 
 ## Resources
@@ -93,3 +94,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Miscellaneous
 - [Roulette](https://github.com/retotrinkler/solidity1/tree/master/alpha) - A Solidity contract which emulates the game of Roulette.
+
+---
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Ben Kremer](http://github.com/bkrem) has waived all copyright and related or neighboring rights to this work.
