@@ -62,10 +62,13 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Tools
 #### General
-- [EPM](https://github.com/eris-ltd/eris-pm) - Eris Package Manager; a smart contract package manager to deploy and test smart contract systems.
 - [REPL](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL CLI.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
 - [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
+
+#### DevOps
+- [Embark](https://iurimatias.github.io/embark-framework/) - A framework that allows you to easily develop and deploy DApps.
+- [EPM](https://github.com/eris-ltd/eris-pm) - Eris Package Manager; a smart contract package manager to deploy and test smart contract systems.
 
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
