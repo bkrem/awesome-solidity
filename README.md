@@ -37,7 +37,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code.
 
 #### Tutorials
-- [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts in general via relevant design patterns.
+- [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts with relevant design patterns.
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced Solidity.
 - [Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.lhsir2mzo) - Medium article on writing upgradable contracts.
 
@@ -84,6 +84,9 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### Emacs
 - [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs.
+
+#### Sublime
+- [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - Ethereum Solidity language syntax for SublimeText.
 
 #### Vim
 - [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity.
