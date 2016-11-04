@@ -79,6 +79,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### Utility
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing solidity contracts using go-ethereum and the simulated chain.
+- [solcover](https://github.com/JoinColony/solcover) - Code coverage for Solidity.
 
 #### Webpack
 - [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader for Solidity.
