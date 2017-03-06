@@ -71,7 +71,6 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### DevOps
 - [Embark](https://iurimatias.github.io/embark-framework/) - A framework that allows you to easily develop and deploy DApps.
-- [EPM](https://github.com/eris-ltd/eris-pm) - Eris Package Manager; a smart contract package manager to deploy and test smart contract systems.
 
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
