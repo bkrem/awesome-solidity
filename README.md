@@ -39,14 +39,14 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code.
 
 #### Tutorials
-- [Eris Smart Contract Tutorial](https://docs.erisindustries.com/tutorials/solidity/solidity-1/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts with relevant design patterns.
+- [Monax Smart Contract Tutorial](https://monax.io/docs/tutorials/solidity/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts with relevant design patterns.
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced Solidity.
 - [Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.lhsir2mzo) - Medium article on writing upgradable contracts.
 
 #### Examples
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
 - [Double-Linked List](https://github.com/o0ragman0o/ll/blob/master/LinkedList.sol) - Implementation of a double-linked list as a Solidity contract.
-- [hello-eris](https://github.com/eris-ltd/hello-eris) - A HelloWorld NodeJS app for the Eris platform which demonstrates how Solidity contracts and a Node application can interface via JSON RPC.
+- [hello-doug](https://github.com/monax/hello-doug) - Quick Start demo applications using the eris blockchain tooling.
 - [slockit/smart-contract](https://github.com/slockit/smart-contract) - Solidity smart contracts for the Slock.it project.
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Comprehensive collection of Solidity contract examples.
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
@@ -59,7 +59,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - A list of collections of Solidity code and utility libraries.
 - [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - A proof-of-concept for the Solidity standard library.
-- [sqlsol](https://github.com/eris-ltd/sqlsol) - A solidity event driven SQLite3 cache for syncing with smart contracts.
+- [sqlsol](https://github.com/monax/sqlsol) - A solidity event driven SQLite3 cache for syncing with smart contracts.
 - [Truffle](https://github.com/ConsenSys/truffle) - Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - A framework to build secure smart contracts in Solidity.
 
