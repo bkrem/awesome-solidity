@@ -78,6 +78,8 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Utility
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing solidity contracts using go-ethereum and the simulated chain.
 - [solcover](https://github.com/JoinColony/solcover) - Code coverage for Solidity.
+- [ethrain](https://github.com/sebs/ethrain) - gets you testnet ether without mining
+- [rpc-check](https://github.com/sebs/rpc-check) - Reviews the json rpc interface from "outside"
 
 #### Webpack
 - [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader for Solidity.
