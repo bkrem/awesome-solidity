@@ -32,80 +32,80 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Docs](http://solidity.readthedocs.io/en/latest/) - Official documentation.
     - [FAQ](http://solidity.readthedocs.io/en/latest/frequently-asked-questions.html) - Frequently asked question about Solidity.
 - [Ethereum Wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki.
-    - [Solidity Features](https://github.com/ethereum/wiki/wiki/Solidity-Features) - A list to explain and demonstrate new Solidity features as soon as they are completed.
+    - [Solidity Features](https://github.com/ethereum/wiki/wiki/Solidity-Features) - List to explain and demonstrate new features as soon as they are completed.
 - [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
-- [Gitter](https://gitter.im/ethereum/solidity/) - Solidity Gitter channel.
-- [Solidity Github Repo](https://github.com/ethereum/solidity/) - Solidity source code.
+- [Gitter](https://gitter.im/ethereum/solidity/) - Gitter channel.
+- [Solidity Github Repo](https://github.com/ethereum/solidity/) - Source code.
 
 #### Tutorials
 - [Monax Smart Contract Tutorial](https://monax.io/docs/tutorials/solidity/) - Tutorial series which begins with a very simple smart contract and teaches how to gradually increase the complexity of your contracts with relevant design patterns.
-- [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced Solidity.
+- [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.lhsir2mzo) - Medium article on writing upgradable contracts.
-- [EthereumDev.io](https://ethereumdev.io) - A complete tutorial from starting to writing complex smart contracts and DApps.
+- [EthereumDev.io](https://ethereumdev.io) - Complete tutorial from starting to writing complex smart contracts and DApps.
 
 #### Examples
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
 - [hello-doug](https://github.com/monax/hello-doug) - Quick Start demo applications using the eris blockchain tooling.
-- [slockit/smart-contract](https://github.com/slockit/smart-contract) - Solidity smart contracts for the Slock.it project.
-- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Comprehensive collection of Solidity contract examples.
+- [slockit/smart-contract](https://github.com/slockit/smart-contract) - Smart contracts for the Slock.it project.
+- [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Comprehensive collection of contract examples.
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
 - [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 
 
 ## Libraries
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
-- [dappsys](https://github.com/nexusdev/dappsys) - A solidity contract system framework for flexible multi-contract dapps.
+- [dappsys](https://github.com/nexusdev/dappsys) - Contract system framework for flexible multi-contract dapps.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
-- [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - A list of collections of Solidity code and utility libraries.
-- [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - A proof-of-concept for the Solidity standard library.
-- [sqlsol](https://github.com/monax/sqlsol) - A solidity event driven SQLite3 cache for syncing with smart contracts.
-- [Truffle](https://github.com/ConsenSys/truffle) - Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
-- [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - A framework to build secure smart contracts in Solidity.
+- [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
+- [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - Proof-of-concept for standard library.
+- [sqlsol](https://github.com/monax/sqlsol) - Event-driven SQLite3 cache for syncing with smart contracts.
+- [Truffle](https://github.com/ConsenSys/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
+- [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - Framework to build secure smart contracts.
 
 
 ## Tools
 #### General
-- [REPL](https://github.com/raineorshine/solidity-repl) - Ethereum Solidity REPL CLI.
-- [solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.
-- [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online Solidity realtime compiler and runtime.
+- [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
+- [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
+- [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online realtime compiler and runtime.
 
 #### DevOps
-- [Embark](https://iurimatias.github.io/embark-framework/) - A framework that allows you to easily develop and deploy DApps.
+- [Embark](https://iurimatias.github.io/embark-framework/) - Framework that allows you to easily develop and deploy DApps.
 
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
 - [solidity-parser](https://github.com/ConsenSys/solidity-parser) - Solidity parser built in JavaScript.
 
 #### Utility
-- [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing solidity contracts using go-ethereum and the simulated chain.
-- [solcover](https://github.com/JoinColony/solcover) - Code coverage for Solidity.
+- [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
+- [solcover](https://github.com/JoinColony/solcover) - Code coverage tool.
 - [ethrain](https://github.com/sebs/ethrain) - Gets you testnet ether without mining.
 - [rpc-check](https://github.com/sebs/rpc-check) - Reviews the json rpc interface from "outside".
 
 #### Webpack
-- [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader for Solidity.
+- [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader.
 
 ## Editor Plugins
 #### Atom
-- [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses your Solidity files to give you contextual autocomplete suggestions.
+- [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses Solidity files to give you contextual autocomplete suggestions.
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
-- [linter-solidity](https://atom.io/packages/linter-solidity) - Solidity linter.
+- [linter-solidity](https://atom.io/packages/linter-solidity) - Linter.
 
 #### Emacs
 - [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs.
 
 #### Sublime
-- [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - Ethereum Solidity language syntax for SublimeText.
+- [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - Solidity syntax for SublimeText.
 
 #### Vim
-- [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity.
+- [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file.
 
 #### Visual Studio
-- [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension for Solidity.
+- [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
 
 
 ## Miscellaneous
-- [Roulette](https://github.com/retotrinkler/solidity1/tree/master/alpha) - A Solidity contract which emulates the game of Roulette.
+- [Roulette](https://github.com/retotrinkler/solidity1/tree/master/alpha) - Contract which emulates the game of Roulette.
 
 ---
 
