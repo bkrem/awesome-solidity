@@ -23,7 +23,6 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
     - [Sublime](#sublime)
     - [Vim](#vim)
     - [Visual Studio](#visual-studio)
-- [Miscellaneous](#miscellaneous)
 - [License](#license)
 
 
@@ -103,9 +102,6 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Visual Studio
 - [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
 
-
-## Miscellaneous
-- [Roulette](https://github.com/retotrinkler/solidity1/tree/master/alpha) - Contract which emulates the game of Roulette.
 
 ---
 
