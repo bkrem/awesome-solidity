@@ -74,6 +74,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
 - [solidity-parser](https://github.com/ConsenSys/solidity-parser) - Solidity parser built in JavaScript.
+- [sulk](https://github.com/lukehedger/sulk) - Configurable contract compilation.
 
 #### Utility
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
