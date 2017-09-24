@@ -15,6 +15,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
     - [General](#general)
     - [DevOps](#devops)
     - [JavaScript](#javascript)
+    - [TypeScript](#typescript)
     - [Utility](#utility)
     - [Webpack](#webpack)
 - [Editor Plugins](#editor-plugins)
@@ -77,6 +78,9 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
 - [solidity-parser](https://github.com/ConsenSys/solidity-parser) - Solidity parser built in JavaScript.
 - [sulk](https://github.com/lukehedger/sulk) - Configurable contract compilation.
+
+#### TypeScript
+- [Soltsice](https://github.com/dbrainio/Soltsice) - Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.
 
 #### Utility
 - [solhint](https://github.com/tokenhouse/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
