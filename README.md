@@ -77,6 +77,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [sulk](https://github.com/lukehedger/sulk) - Configurable contract compilation.
 
 #### Utility
+- [solhint](https://github.com/tokenhouse/solhint) - Solidity linter that provides security, style guide and best practise rules for smart contract validation.
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
 - [solcover](https://github.com/JoinColony/solcover) - Code coverage tool.
 - [ethrain](https://github.com/sebs/ethrain) - Gets you testnet ether without mining.
