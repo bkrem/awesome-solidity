@@ -55,6 +55,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
 - [dappsys](https://github.com/nexusdev/dappsys) - Contract system framework for flexible multi-contract dapps.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
+- [Majoolr Libraries](https://github.com/Majoolr/ethereum-libraries) - Deployed utility libraries to use in your smart contracts.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
 - [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - Proof-of-concept for standard library.
 - [sqlsol](https://github.com/monax/sqlsol) - Event-driven SQLite3 cache for syncing with smart contracts.
