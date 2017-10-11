@@ -96,6 +96,9 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Emacs
 - [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs.
 
+#### IntelliJ
+- [intellij-solidity](https://github.com/intellij-solidity/intellij-solidity) - Solidity plugin for IntelliJ.
+
 #### Sublime
 - [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - Solidity syntax for SublimeText.
 
