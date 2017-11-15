@@ -84,6 +84,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### Utility
 - [solhint](https://github.com/tokenhouse/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
+- [solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity smart contracts.
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
 - [solcover](https://github.com/JoinColony/solcover) - Code coverage tool.
 - [ethrain](https://github.com/sebs/ethrain) - Gets you testnet ether without mining.
