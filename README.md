@@ -63,7 +63,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [sqlsol](https://github.com/monax/sqlsol) - Event-driven SQLite3 cache for syncing with smart contracts.
 - [Truffle](https://github.com/ConsenSys/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - Framework to build secure smart contracts.
-- [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development
+- [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development.
 
 
 ## Tools
