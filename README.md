@@ -44,7 +44,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [EthereumDev.io](https://ethereumdev.io) - Complete tutorial from starting to writing complex smart contracts and DApps.
 - [Learn Solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectables game.
-- [Hackr.io Tutorials](https://hackr.io/tutorials/learn-solidity) - Community curated tutorials and courses
+- [Hackr.io Tutorials](https://hackr.io/tutorials/learn-solidity) - Community curated tutorials and courses.
 
 #### Examples
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
