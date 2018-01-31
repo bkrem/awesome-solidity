@@ -105,6 +105,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [linter-solidity](https://atom.io/packages/linter-solidity) - Linter.
 
 #### Emacs
+- [company-solidity](https://github.com/ssmolkin1/company-solidity) - Autocomplete with company-mode.
 - [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs.
 
 #### IntelliJ
