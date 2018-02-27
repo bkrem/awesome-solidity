@@ -75,7 +75,13 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
 - [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online realtime compiler and runtime.
-- [SmartCheck](https://tool.smartdec.net) - Checks smart contracts for vulnerabilities and bad practices.
+
+#### Audit
+- [SmartCheck](https://tool.smartdec.net) - Web-based for checking smart contracts for vulnerabilities and bad practices.
+- [Securify](https://securify.ch) - Web-based for analyzing smart contracts for vulnerabilities and insecure coding.
+- [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
+- [Manticore](https://github.com/trailofbits/manticore) - Tool for analysis of binaries and smart contracts.
+- [Porosity](https://github.com/comaeio/porosity) - Decompiler and security analysis tool for smart contracts.
 
 #### DevOps
 - [Embark](https://iurimatias.github.io/embark-framework/) - Framework that allows you to easily develop and deploy DApps.
