@@ -77,8 +77,8 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online realtime compiler and runtime.
 
 #### Audit
-- [SmartCheck](https://tool.smartdec.net) - Web-based for checking smart contracts for vulnerabilities and bad practices.
-- [Securify](https://securify.ch) - Web-based for analyzing smart contracts for vulnerabilities and insecure coding.
+- [SmartCheck](https://tool.smartdec.net) - Online checking smart contracts for vulnerabilities and bad practices.
+- [Securify](https://securify.ch) - Online analyzing smart contracts for vulnerabilities and insecure coding.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [Manticore](https://github.com/trailofbits/manticore) - Tool for analysis of binaries and smart contracts.
 - [Porosity](https://github.com/comaeio/porosity) - Decompiler and security analysis tool for smart contracts.
