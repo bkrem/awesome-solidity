@@ -13,6 +13,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
+    - [Audit](#audit)
     - [DevOps](#devops)
     - [JavaScript](#javascript)
     - [TypeScript](#typescript)
