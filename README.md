@@ -84,7 +84,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Porosity](https://github.com/comaeio/porosity) - Decompiler and security analysis tool for smart contracts.
 
 #### DevOps
-- [Embark](https://iurimatias.github.io/embark-framework/) - Framework that allows you to easily develop and deploy DApps.
+- [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
 
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
