@@ -21,6 +21,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
     - [Webpack](#webpack)
 - [Editor Plugins](#editor-plugins)
     - [Atom](#atom)
+    - [Eclipse](#eclipse)
     - [Emacs](#emacs)
     - [Sublime](#sublime)
     - [Vim](#vim)
