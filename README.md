@@ -113,7 +113,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
 - [linter-solidity](https://atom.io/packages/linter-solidity) - Linter.
 
-### Eclipse
+#### Eclipse
 - [uml2solidity](https://github.com/UrsZeidler/uml2solidity) - Model smart contracts with UML.
 
 #### Emacs
