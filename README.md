@@ -60,7 +60,9 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Libraries
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
+- [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating javascript modules from Contracts for Decentralized Apps.
 - [dappsys](https://github.com/nexusdev/dappsys) - Contract system framework for flexible multi-contract dapps.
+- [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
 - [Modular Libraries](https://github.com/modular-network/ethereum-libraries) - Deployed utility libraries to use in your smart contracts.
 - [Smart Contracts Skeleton](https://github.com/Shimmi/smart-contracts-skeleton) - Preconfigured skeleton repository for building or starting with development of Smart contracts.
@@ -69,7 +71,6 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [sqlsol](https://github.com/monax/sqlsol) - Event-driven SQLite3 cache for syncing with smart contracts.
 - [Truffle](https://github.com/ConsenSys/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - Framework to build secure smart contracts.
-- [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development.
 
 
 ## Tools
