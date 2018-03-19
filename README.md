@@ -70,6 +70,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Truffle](https://github.com/ConsenSys/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - Framework to build secure smart contracts.
 - [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development.
+- [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating js module for Dapp from contract code.
 
 
 ## Tools
