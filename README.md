@@ -60,7 +60,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Libraries
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
-- [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating js module for Dapp from contract code.
+- [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating javascript modules from Contracts for Decentralized Apps.
 - [dappsys](https://github.com/nexusdev/dappsys) - Contract system framework for flexible multi-contract dapps.
 - [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
