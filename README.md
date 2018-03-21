@@ -63,6 +63,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating javascript modules from Contracts for Decentralized Apps.
 - [dappsys](https://github.com/nexusdev/dappsys) - Contract system framework for flexible multi-contract dapps.
 - [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development.
+- [Embark](https://github.com/embark-framework/embark) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
 - [Modular Libraries](https://github.com/modular-network/ethereum-libraries) - Deployed utility libraries to use in your smart contracts.
 - [Smart Contracts Skeleton](https://github.com/Shimmi/smart-contracts-skeleton) - Preconfigured skeleton repository for building or starting with development of Smart contracts.
