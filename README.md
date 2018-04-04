@@ -78,7 +78,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### General
 - [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
-- [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online realtime compiler and runtime.
+- [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 
 #### Audit
 - [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
