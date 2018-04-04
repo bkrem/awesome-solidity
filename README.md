@@ -99,7 +99,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Soltsice](https://github.com/dbrainio/Soltsice) - Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.
 
 #### Utility
-- [solhint](https://github.com/tokenhouse/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
+- [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
 - [solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity smart contracts.
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
