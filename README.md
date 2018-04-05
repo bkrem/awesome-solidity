@@ -78,7 +78,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### General
 - [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
-- [Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js) - Online realtime compiler and runtime.
+- [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 
 #### Audit
 - [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
@@ -99,10 +99,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Soltsice](https://github.com/dbrainio/Soltsice) - Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.
 
 #### Utility
-- [solhint](https://github.com/tokenhouse/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
+- [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
 - [solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity smart contracts.
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
-- [solcover](https://github.com/JoinColony/solcover) - Code coverage tool.
+- [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [ethrain](https://github.com/sebs/ethrain) - Gets you testnet ether without mining.
 - [rpc-check](https://github.com/sebs/rpc-check) - Reviews the json rpc interface from "outside".
 
