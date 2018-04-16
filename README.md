@@ -51,6 +51,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - Learn Solidity in 15 mins (for experienced devs).
 
 #### Security
+- [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security.
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/): General security philosophy, known attacks, and sample code.
 
 #### Examples
