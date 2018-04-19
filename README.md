@@ -9,6 +9,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Resources](#resources)
     - [Official](#official)
     - [Tutorials](#tutorials)
+    - [Security](#security)
     - [Examples](#examples)
 - [Libraries](#libraries)
 - [Tools](#tools)
