@@ -77,7 +77,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md) - Proof-of-concept for standard library.
 - [sqlsol](https://github.com/monax/sqlsol) - Event-driven SQLite3 cache for syncing with smart contracts.
 - [Truffle](https://github.com/ConsenSys/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
-- [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - Framework to build secure smart contracts.
+- [OpenZeppelin](https://openzeppelin.org/) - Framework to build secure smart contracts.
 
 
 ## Tools
