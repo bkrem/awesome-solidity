@@ -74,6 +74,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Modular Libraries](https://github.com/modular-network/ethereum-libraries) - Deployed utility libraries to use in your smart contracts.
 - [Smart Contracts Skeleton](https://github.com/Shimmi/smart-contracts-skeleton) - Preconfigured skeleton repository for building or starting with development of Smart contracts.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
+- [Solidity Standard Library](https://github.com/alianse777/solidity-standard-library) - Standard library (Array, random, math, string).
 - [sqlsol](https://github.com/monax/sqlsol) - Event-driven SQLite3 cache for syncing with smart contracts.
 - [Truffle](https://github.com/ConsenSys/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [OpenZeppelin](https://openzeppelin.org/) - Framework to build secure smart contracts.
