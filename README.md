@@ -104,6 +104,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### TypeScript
 - [Soltsice](https://github.com/dbrainio/Soltsice) - Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.
+- [TypeChain](https://github.com/Neufund/TypeChain) - TypeScript bindings for Ethereum smart contracts.
 
 #### Utility
 - [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
