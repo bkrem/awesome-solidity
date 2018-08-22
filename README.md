@@ -50,6 +50,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectables game.
 - [Hackr.io Tutorials](https://hackr.io/tutorials/learn-solidity) - Community curated tutorials and courses.
 - [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - Learn Solidity in 15 mins (for experienced devs).
+- [Syntax cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick syntax overview.
 
 #### Security
 - [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security.
