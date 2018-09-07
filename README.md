@@ -90,7 +90,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### Audit
 - [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
-- [Securify](https://securify.ch) - Online tool for analyzing smart contracts for vulnerabilities and insecure coding.
+- [Securify](https://securify.chainsecurity.com/) - Online tool for analyzing smart contracts for vulnerabilities and insecure coding.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [Manticore](https://github.com/trailofbits/manticore) - Tool for analysis of binaries and smart contracts.
 - [Porosity](https://github.com/comaeio/porosity) - Decompiler and security analysis tool for smart contracts.
