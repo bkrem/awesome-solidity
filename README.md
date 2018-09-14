@@ -67,6 +67,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 
 ## Libraries
+- [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating javascript modules from Contracts for Decentralized Apps.
 - [dappsys](https://github.com/nexusdev/dappsys) - Contract system framework for flexible multi-contract dapps.
