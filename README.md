@@ -99,6 +99,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### DevOps
 - [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
+- [Moesif](https://www.moesif.com/docs/platform/ethereum-web3/) - Service that provides Ethereum smart contract analytics and anomaly detection for DApps and DAPIs.
 
 #### JavaScript
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
