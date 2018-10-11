@@ -53,8 +53,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Syntax cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick syntax overview.
 
 #### Security
+- [Awesome Ethereum Security](https://github.com/trailofbits/awesome-ethereum-security) - Curated list of awesome Ethereum security references, guidance, tools, and more.
 - [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security.
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/): General security philosophy, known attacks, and sample code.
+* [Not So Smart Contracts](https://github.com/trailofbits/not-so-smart-contracts) - Examples of common vulnerabilities, including code from real smart contracts.
 
 #### Examples
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
@@ -91,11 +93,12 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 
 #### Audit
+- [Echidna](https://github.com/trailofbits/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
 - [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
 - [Securify](https://securify.chainsecurity.com/) - Online tool for analyzing smart contracts for vulnerabilities and insecure coding.
+- [Slither](https://github.com/trailofbits/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
-- [Manticore](https://github.com/trailofbits/manticore) - Tool for analysis of binaries and smart contracts.
-- [Porosity](https://github.com/comaeio/porosity) - Decompiler and security analysis tool for smart contracts.
+- [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types, and can prove correctness properties with symbolic execution.
 
 #### DevOps
 - [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
