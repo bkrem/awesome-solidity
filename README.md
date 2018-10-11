@@ -56,7 +56,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Awesome Ethereum Security](https://github.com/trailofbits/awesome-ethereum-security) - Curated list of awesome Ethereum security references, guidance, tools, and more.
 - [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security.
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/): General security philosophy, known attacks, and sample code.
-* [Not So Smart Contracts](https://github.com/trailofbits/not-so-smart-contracts) - Examples of common vulnerabilities, including code from real smart contracts.
+- [Not So Smart Contracts](https://github.com/trailofbits/not-so-smart-contracts) - Examples of common vulnerabilities, including code from real smart contracts.
 
 #### Examples
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
