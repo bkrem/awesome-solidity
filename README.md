@@ -148,7 +148,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file.
 - [solidity.vim](https://github.com/dmdque/solidity.vim) - Vim compiler plugin.
 
-#### Visual Studio
+#### Visual Studio Code
 - [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
 
 
