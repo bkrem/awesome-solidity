@@ -26,7 +26,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
     - [Emacs](#emacs)
     - [Sublime](#sublime)
     - [Vim](#vim)
-    - [Visual Studio](#visual-studio)
+    - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 
