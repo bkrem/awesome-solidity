@@ -88,6 +88,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Tools
 #### General
+- [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
 - [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
