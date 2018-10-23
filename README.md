@@ -128,6 +128,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 ## Editor Plugins
 #### Atom
 - [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses Solidity files to give you contextual autocomplete suggestions.
+- [Etheratom](https://atom.io/packages/etheratom) - Compile and deploy Solidity code from atom editor.
 - [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
 - [linter-solidity](https://atom.io/packages/linter-solidity) - Linter.
 
