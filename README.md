@@ -34,8 +34,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Official
 - [Docs](http://solidity.readthedocs.io/en/latest/) - Official documentation.
     - [FAQ](http://solidity.readthedocs.io/en/latest/frequently-asked-questions.html) - Frequently asked question about Solidity.
-- [Ethereum Wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki.
-    - [Solidity Features](https://github.com/ethereum/wiki/wiki/Solidity-Features) - List to explain and demonstrate new features as soon as they are completed.
+- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki) - The Ethereum Wiki.
 - [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
 - [Gitter](https://gitter.im/ethereum/solidity/) - Gitter channel.
 - [Solidity Github Repo](https://github.com/ethereum/solidity/) - Source code.
