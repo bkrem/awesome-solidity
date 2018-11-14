@@ -59,6 +59,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### Examples
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
+- [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate language features.
 - [slockit/smart-contract](https://github.com/slockit/smart-contract) - Smart contracts for the Slock.it project.
 - [Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps) - Comprehensive collection of contract examples.
@@ -91,6 +92,8 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 - [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
+- [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
+- [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 
 #### Audit
 - [Echidna](https://github.com/trailofbits/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
