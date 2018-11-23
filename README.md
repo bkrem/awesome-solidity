@@ -88,6 +88,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Tools
 #### General
+- [Superblocks Lab](https://lab.superblocks.com/) - Web IDE. Built in browser blockhain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
 - [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 - [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
