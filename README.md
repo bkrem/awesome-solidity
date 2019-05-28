@@ -95,6 +95,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 - [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with human readable stack traces.
+- [Buidler](https://buidler.dev) - A task runner for Ethereum smart contract developers.
 
 #### Audit
 - [Echidna](https://github.com/trailofbits/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
