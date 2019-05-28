@@ -87,6 +87,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Tools
 #### General
+- [Buidler](https://buidler.dev) - A task runner for Ethereum smart contract developers.
 - [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 - [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
