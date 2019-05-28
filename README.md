@@ -99,7 +99,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Audit
 - [Echidna](https://github.com/trailofbits/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
 - [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types, and can prove correctness properties with symbolic execution.
-- [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
+- [Mythril-classic](https://github.com/ConsenSys/mythril-classic) - Security analysis tool for smart contracts.
 - [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
 - [Securify](https://securify.chainsecurity.com/) - Online tool for analyzing smart contracts for vulnerabilities and insecure coding.
 - [Slither](https://github.com/trailofbits/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
@@ -121,8 +121,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [ethrain](https://github.com/sebs/ethrain) - Gets you testnet ether without mining.
 - [rpc-check](https://github.com/sebs/rpc-check) - Reviews the json rpc interface from "outside".
 - [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
-- [solium](https://github.com/duaraghav8/Solium) - Linter to identify and fix style & security issues in Solidity smart contracts.
+- [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
+- [sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list & store solidity smart contract methods attributes.
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
+- [sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 
 #### Webpack
@@ -154,8 +156,8 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file.
 
 #### Visual Studio Code
+- [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) - Visual Code Extension to generate & store smart contract methods profile.
 - [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
-
 
 ---
 
