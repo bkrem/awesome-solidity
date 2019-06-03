@@ -11,6 +11,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
     - [Tutorials](#tutorials)
     - [Security](#security)
     - [Examples](#examples)
+    - [Books](#books)
 - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
@@ -66,6 +67,9 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
 - [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 - [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Common gotchas, pitfalls, limitations, and idiosyncrasies.
+
+#### Books
+- [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) - Book that teaches the essential principles of blockchain and how to create your own decentralized apps.
 
 
 ## Libraries
