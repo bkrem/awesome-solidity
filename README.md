@@ -130,6 +130,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
 - [sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
+- [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
 
 #### Webpack
 - [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader.
