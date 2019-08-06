@@ -98,7 +98,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
-- [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with human readable stack traces.
+- [Tenderly](https://tenderly.dev) - Dive into every transaction and monitor your smart contracts on all the major networks (Mainnet, Kovan, Ropsten, Rinkeby).
 
 #### Audit
 - [Echidna](https://github.com/trailofbits/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
@@ -131,6 +131,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
+- [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
 
 #### Webpack
 - [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader.
