@@ -122,8 +122,6 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [TypeChain](https://github.com/Neufund/TypeChain) - TypeScript bindings for Ethereum smart contracts.
 
 #### Utility
-- [ethrain](https://github.com/sebs/ethrain) - Gets you testnet ether without mining.
-- [rpc-check](https://github.com/sebs/rpc-check) - Reviews the json rpc interface from "outside".
 - [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
 - [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
 - [sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list & store solidity smart contract methods attributes.
