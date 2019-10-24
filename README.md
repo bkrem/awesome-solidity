@@ -12,6 +12,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
     - [Security](#security)
     - [Examples](#examples)
     - [Books](#books)
+    - [Practice](#practice)
 - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
@@ -70,6 +71,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### Books
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) - Book that teaches the essential principles of blockchain and how to create your own decentralized apps.
+
+#### Practice
+- [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
+- [Eth Hole](https://ethhole.com/challenge) - Practice challenges for building portfolio, added to weekly.
 
 
 ## Libraries
