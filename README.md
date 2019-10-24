@@ -74,7 +74,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### Practice
 - [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
-- [Eth Hole](https://ethhole.com/challenge) - Practice challenges for building a portfolio, added to weekly.
+- [Eth Hole](https://ethhole.com/challenge) - Practice challenges for building portfolio, added to weekly.
 
 
 ## Libraries
