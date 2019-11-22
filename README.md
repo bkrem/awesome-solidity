@@ -104,6 +104,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 - [Tenderly](https://tenderly.dev) - Dive into every transaction and monitor your smart contracts on all the major networks (Mainnet, Kovan, Ropsten, Rinkeby).
+- [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyse and Instrument Solidity source code.
 
 #### Audit
 - [Echidna](https://github.com/trailofbits/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
