@@ -52,6 +52,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [Syntax cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick syntax overview.
 - [Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.lhsir2mzo) - Medium article on writing upgradable contracts.
+- [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/) - Developer handbook for smart contract developers.
 
 #### Security
 - [Awesome Ethereum Security](https://github.com/trailofbits/awesome-ethereum-security) - Curated list of awesome Ethereum security references, guidance, tools, and more.
