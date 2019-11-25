@@ -101,6 +101,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 - [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
+- [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyse and instrument source code.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
