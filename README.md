@@ -76,6 +76,8 @@ SSL cert is currently failing for `blog.colony.io`; will be removed permanently 
 
 #### Books
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) - Book that teaches the essential principles of blockchain and how to create your own decentralized apps.
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
+
 
 #### Practice
 - [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
@@ -118,6 +120,8 @@ SSL cert is currently failing for `blog.colony.io`; will be removed permanently 
 - [SmartCheck](https://tool.smartdec.net) - Online tool for checking smart contracts for vulnerabilities and bad practices.
 - [Securify](https://securify.chainsecurity.com/) - Online tool for analyzing smart contracts for vulnerabilities and insecure coding.
 - [Slither](https://github.com/trailofbits/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
+- [MythX](https://mythx.io/) - Detection for security vulnerabilities in Ethereum smart contracts throughout the development life cycle
+
 
 #### DevOps
 - [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
@@ -173,6 +177,9 @@ SSL cert is currently failing for `blog.colony.io`; will be removed permanently 
 #### Visual Studio Code
 - [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) - Visual Code Extension to generate & store smart contract methods profile.
 - [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
+- [Solidity Visual Auditor](https://github.com/ConsenSys/vscode-solidity-auditor) - Visual Security audit, Security centric syntax and semantic highlighting, detailed class outline, UML diagram generator, and many more features. 
+- [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity Contracts using truffle-flattener
+- [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) - A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.
 
 ---
 
