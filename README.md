@@ -112,7 +112,7 @@ SSL cert is currently failing for `blog.colony.io`; will be removed permanently 
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
-- [Tenderly](https://tenderly.dev) - Dive into every transaction and monitor your smart contracts on all the major networks (Mainnet, Kovan, Ropsten, Rinkeby).
+- [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
 
 #### Audit
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
