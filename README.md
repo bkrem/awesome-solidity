@@ -13,6 +13,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
     - [Examples](#examples)
     - [Books](#books)
     - [Practice](#practice)
+    - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
     - [General](#general)
@@ -83,6 +84,11 @@ SSL cert is currently failing for `blog.colony.io`; will be removed permanently 
 #### Practice
 - [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
 - [Eth Hole](https://ethhole.com/challenge) - Practice challenges for building portfolio, added to weekly.
+
+
+#### Jobs
+- [Cryptocurrency Jobs](https://cryptocurrencyjobs.substack.com/) - Job board for blockchain jobs and cryptocurrency job
+- [BEN Jobs](https://blockchainedu.org/jobs) - Job board by blockchain education network
 
 
 ## Libraries
