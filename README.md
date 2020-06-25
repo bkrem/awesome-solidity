@@ -87,8 +87,8 @@ SSL cert is currently failing for `blog.colony.io`; will be removed permanently 
 
 
 #### Jobs
-- [Cryptocurrency Jobs](https://cryptocurrencyjobs.substack.com/) - Job board for blockchain jobs and cryptocurrency job
-- [BEN Jobs](https://blockchainedu.org/jobs) - Job board by blockchain education network
+- [Cryptocurrency Jobs](https://cryptocurrencyjobs.substack.com/) - Job board for blockchain jobs and cryptocurrency job.
+- [BEN Jobs](https://blockchainedu.org/jobs) - Job board by blockchain education network.
 
 
 ## Libraries
