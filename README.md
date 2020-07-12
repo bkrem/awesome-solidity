@@ -53,6 +53,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [Syntax cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick syntax overview.
 - [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review syntax of both languages side-by-side.
+- [Solidity Developer Blog](https://soliditydeveloper.com/blog) - Concepts, guides, design patterns and more.
 
 <!-- 
 SSL cert is currently failing for `blog.colony.io`; will be removed permanently if it isn't fixed in the coming weeks.
