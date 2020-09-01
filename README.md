@@ -78,7 +78,7 @@ SSL cert is currently failing for `blog.colony.io`; will be removed permanently 
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) - Book that teaches the essential principles of blockchain and how to create your own decentralized apps.
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
 - [Permissioned Blockchains in Action](https://www.manning.com/books/permissioned-blockchains-in-action) - A guide to creating innovative applications using blockchain technology.
-
+- [Programming Hyperledger Fabric](https://www.manning.com/books/programming-hyperledger-fabric) - A guide to solving the problems of deploying blockchain apps to production.
 
 #### Practice
 - [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
