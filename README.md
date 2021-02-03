@@ -24,6 +24,7 @@
     - [Tutorials](#tutorials)
     - [Security](#security)
     - [Examples](#examples)
+    - [Templates](#templates)
     - [Books](#books)
     - [Practice](#practice)
     - [Jobs](#jobs)
@@ -91,6 +92,9 @@
 - [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 - [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Common gotchas, pitfalls, limitations, and idiosyncrasies.
 - [trusttoken/smart-contracts](https://github.com/trusttoken/smart-contracts) - TrustToken smart contracts.
+
+#### Templates
+- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Github template for writing contracts (uses: Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, Prettier Plugin Solidity).
 
 #### Books
 
