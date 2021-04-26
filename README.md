@@ -119,6 +119,7 @@
 - [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
 - [Modular Libraries](https://github.com/modular-network/ethereum-libraries) - Deployed utility libraries to use in your smart contracts.
+- [ocaml-solidity](https://ocamlpro.github.io/ocaml-solidity/) - OCaml library providing a parser, a typechecker and miscellaneous utilities for manipulating contracts.
 - [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
 - [Smart Contracts Skeleton](https://github.com/Shimmi/smart-contracts-skeleton) - Preconfigured skeleton repository for building or starting with development of Smart contracts.
 - [smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken) - LINK Token Contracts for the Chainlink Network.
