@@ -137,9 +137,9 @@
 #### General
 
 - [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
-- [Hardhat](https://hardhat.org/) - A task runner for Ethereum smart contract developers.
+- [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
-- [REPL](https://github.com/raineorshine/solidity-repl) - REPL CLI.
+- [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyse and instrument source code.
 - [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - A home for ethereum smart contracts, all verified smart contracts from Etherscan.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
