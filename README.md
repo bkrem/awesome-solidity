@@ -1,11 +1,11 @@
 <div align="center">
-  <h1 align="center">awesome-solidity</h1>
+  <h1 align="center">Awesome Solidity</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     </a>
-    <a href="https://travis-ci.org/bkrem/awesome-solidity">
-      <img alt="build status badge" src="https://travis-ci.org/bkrem/awesome-solidity.svg?branch=master">
+    <a href="#buildstatus">
+      <img alt="build status badge" src="https://github.com/bkrem/awesome-solidity/workflows/Build/badge.svg">
     </a>
     <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
