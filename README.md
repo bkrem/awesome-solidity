@@ -88,7 +88,7 @@
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate language features.
 - [slockit/smart-contract](https://github.com/slockit/smart-contract) - Smart contracts for the Slock.it project.
 - [Solidity Baby Steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
-- [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
+- [Solidity By Example](https://solidity-by-example.org/) - An introduction to the language with simple examples.
 - [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 - [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Common gotchas, pitfalls, limitations, and idiosyncrasies.
 - [Synthetixio/synthetix](https://github.com/Synthetixio/synthetix) - Synthetix smart contracts.
