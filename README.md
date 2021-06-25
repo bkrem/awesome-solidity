@@ -51,7 +51,8 @@
 
 #### Official
 
-- [Docs](http://solidity.readthedocs.io/en/latest/) - Official documentation.
+- [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
+- [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - Cheatsheet from the official docs.
 - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki) - The Ethereum Wiki.
 - [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
 - [Gitter](https://gitter.im/ethereum/solidity/) - Gitter channel.
