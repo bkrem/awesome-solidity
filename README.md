@@ -90,6 +90,7 @@
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
 - [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 - [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Common gotchas, pitfalls, limitations, and idiosyncrasies.
+- [Synthetixio/synthetix](https://github.com/Synthetixio/synthetix) - Synthetix smart contracts.
 - [trusttoken/smart-contracts](https://github.com/trusttoken/smart-contracts) - TrustToken smart contracts.
 
 #### Templates
