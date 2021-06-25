@@ -55,7 +55,8 @@
 - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki) - The Ethereum Wiki.
 - [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
 - [Gitter](https://gitter.im/ethereum/solidity/) - Gitter channel.
-- [Solidity Github Repo](https://github.com/ethereum/solidity/) - Source code.
+- [ethereum/solidity](https://github.com/ethereum/solidity/) - Source code.
+- [ethereum/solc-bin](https://github.com/ethereum/solc-bin) - Current and historical builds of the compiler.
 
 #### Tutorials
 
