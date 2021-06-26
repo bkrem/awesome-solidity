@@ -107,6 +107,7 @@
 #### Practice
 
 - [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
+- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Ethernaut is a Web3/Solidity based wargame to be played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 - [Eth Hole](https://ethhole.com/challenge) - Practice challenges for building portfolio, added to weekly.
 
 #### Jobs
