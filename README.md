@@ -204,7 +204,6 @@
 #### Eclipse
 
 - [uml2solidity](https://github.com/UrsZeidler/uml2solidity) - Model smart contracts with UML.
-- [YAKINDU Solidity Tools](https://yakindu.github.io/solidity-ide/) - Features context sensitive code completion and help, code navigation, syntax coloring, built in compiler, quick fixes and templates.
 
 #### Emacs
 
