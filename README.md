@@ -77,6 +77,7 @@
 #### Security
 
 - [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) - Curated list of awesome Ethereum security references, guidance, tools, and more.
+- [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts.
 - [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security.
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) - General security philosophy, known attacks, and sample code.
 - [Not So Smart Contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of common vulnerabilities, including code from real smart contracts.
