@@ -113,7 +113,7 @@
 
 #### Jobs
 
-- [Cryptocurrency Jobs](https://cryptocurrencyjobs.substack.com/) - Job board for blockchain jobs and cryptocurrency job.
+- [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - Job board for blockchain and cryptocurrency jobs.
 
 ## Libraries
 
