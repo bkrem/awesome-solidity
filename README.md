@@ -73,6 +73,7 @@
 - [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review syntax of both languages side-by-side.
 - [Solidity Developer Blog](https://soliditydeveloper.com/blog) - Concepts, guides, design patterns and more.
 - [Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.lhsir2mzo) - Medium article on writing upgradable contracts.
+- [Clean Contracts](https://www.wslyvh.com/clean-contracts/) - A guide to writing clean smart contract code
 
 #### Security
 
