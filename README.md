@@ -35,6 +35,7 @@
     - [DevOps](#devops)
     - [JavaScript](#javascript)
     - [TypeScript](#typescript)
+    - [Rust](#rust)
     - [Utility](#utility)
     - [Webpack](#webpack)
 - [Editor Plugins](#editor-plugins)
@@ -183,6 +184,11 @@
 
 - [Soltsice](https://github.com/Soltsice/Soltsice) - Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.
 - [TypeChain](https://github.com/ethereum-ts/TypeChain) - TypeScript bindings for Ethereum smart contracts.
+
+#### Rust
+
+- [hyperledger-labs/solang](https://github.com/hyperledger-labs/solang) - A Solidity-to-WASM-and-BPF compiler written in Rust.
+- [rust-ethereum/ethabi](https://github.com/rust-ethereum/ethabi) -Encode and decode smart contract invocations.
 
 #### Utility
 
