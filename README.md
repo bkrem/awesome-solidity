@@ -118,6 +118,7 @@
 #### Jobs
 
 - [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - Job board for blockchain and cryptocurrency jobs.
+- [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
 
 ## Libraries
 
