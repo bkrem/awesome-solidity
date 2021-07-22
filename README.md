@@ -88,6 +88,7 @@
 - [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol Contracts.
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
 - [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
+- [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate language features.
 - [slockit/smart-contract](https://github.com/slockit/smart-contract) - Smart contracts for the Slock.it project.
