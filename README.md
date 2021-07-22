@@ -196,6 +196,7 @@
 
 #### Utility
 
+- [crytic/solc-select](https://github.com/crytic/solc-select) - CLI to quickly switch between compiler versions.
 - [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
 - [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
 - [sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list & store solidity smart contract methods attributes.
