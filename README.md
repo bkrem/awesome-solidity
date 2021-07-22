@@ -66,7 +66,6 @@
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [The Complete Guide to Full Stack Ethereum Development (dev.to)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat.
 - [Discover Ethereum & Solidity](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
-- [EthereumDev.io](https://ethereumdev.io) - Complete tutorial from starting to writing complex smart contracts and DApps.
 - [Learn Solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
 - [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - Learn Solidity in 15 mins (for experienced devs).
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
