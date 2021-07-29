@@ -82,7 +82,6 @@
 - [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security.
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) - General security philosophy, known attacks, and sample code.
 - [Not So Smart Contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of common vulnerabilities, including code from real smart contracts.
-- [Best practices for smart contract development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)- Best practices for smart contract development
 
 #### Examples
 
