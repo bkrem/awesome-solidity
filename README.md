@@ -73,7 +73,7 @@
 - [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review syntax of both languages side-by-side.
 - [Solidity Developer Blog](https://soliditydeveloper.com/blog) - Concepts, guides, design patterns and more.
 - [Clean Contracts](https://www.wslyvh.com/clean-contracts/) - Developer guide to writing clean smart contract code.
-- [Getting started with blockchain to advance solidity](cryptodevhub.io)-from starting in blockchain to advance solidity - all the resources at one point 
+- [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
 
 #### Security
 
