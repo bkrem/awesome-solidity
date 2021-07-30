@@ -103,8 +103,9 @@
 
 ##### Deployed on Ethereum Mainnet
 
-- [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol Contracts.
-- [smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken) - LINK Token Contracts for the Chainlink Network.
+- [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol contracts.
+- [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - Compound Protocol contracts.
+- [smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken) - LINK token contracts for the Chainlink Network.
 - [Synthetixio/synthetix](https://github.com/Synthetixio/synthetix) - Synthetix smart contracts.
 - [trusttoken/smart-contracts](https://github.com/trusttoken/smart-contracts) - TrustToken smart contracts.
 
