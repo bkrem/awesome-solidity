@@ -93,7 +93,6 @@
 
 ##### Educational
 
-- [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [chriseth/solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 - [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
@@ -164,6 +163,7 @@
 #### General
 
 - [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
+- [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 - [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
