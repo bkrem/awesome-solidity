@@ -22,6 +22,7 @@
 - [Resources](#resources)
     - [Official](#official)
     - [Tutorials](#tutorials)
+    - [Articles](#articles)
     - [Security](#security)
     - [Examples](#examples)
     - [Templates](#templates)
@@ -62,18 +63,21 @@
 
 #### Tutorials
 
-- [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/) - Developer handbook for smart contract developers.
+- [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
-- [The Complete Guide to Full Stack Ethereum Development (dev.to)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat.
-- [Discover Ethereum & Solidity](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
-- [Learn Solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
+- [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
+- [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
 - [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - Learn Solidity in 15 mins (for experienced devs).
-- [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [Syntax cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick syntax overview.
 - [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review syntax of both languages side-by-side.
-- [Solidity Developer Blog](https://soliditydeveloper.com/blog) - Concepts, guides, design patterns and more.
-- [Clean Contracts](https://www.wslyvh.com/clean-contracts/) - Developer guide to writing clean smart contract code.
-- [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
+- [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
+
+#### Articles
+
+- [Best Practices for Smart Contract Development (yos.io, 2019)](https://yos.io/2019/11/10/smart-contract-development-best-practices/) - Developer handbook for smart contract developers.
+- [Clean Contracts (wslyvh.com, 2020)](https://www.wslyvh.com/clean-contracts/) - Developer guide to writing clean smart contract code.
+- [The Complete Guide to Full Stack Ethereum Development (dev.to, Nader Dabit, 2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat.
+- [soliditydeveloper.com/blog](https://soliditydeveloper.com/blog) - Concepts, guides, design patterns and more.
 
 #### Security
 
