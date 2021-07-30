@@ -69,6 +69,7 @@
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
 - [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
+- [ExtropyIO/defi-bot](https://github.com/ExtropyIO/defi-bot) - Tutorial for building DeFi arbitrage bots.
 - [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - Learn Solidity in 15 mins (for experienced devs).
 - [Syntax cheat sheet](https://topmonks.github.io/solidity_quick_ref/) - Quick syntax overview.
 - [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review syntax of both languages side-by-side.
