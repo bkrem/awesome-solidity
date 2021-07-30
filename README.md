@@ -104,7 +104,6 @@
 ##### Deployed on Ethereum Mainnet
 
 - [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol Contracts.
-- [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
 - [slockit/smart-contract](https://github.com/slockit/smart-contract) - Smart contracts for the Slock.it project.
 - [smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken) - LINK Token Contracts for the Chainlink Network.
 - [Synthetixio/synthetix](https://github.com/Synthetixio/synthetix) - Synthetix smart contracts.
