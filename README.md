@@ -113,6 +113,7 @@
 - [Synthetixio/synthetix](https://github.com/Synthetixio/synthetix) - Synthetix smart contracts.
 - [trusttoken/smart-contracts](https://github.com/trusttoken/smart-contracts) - TrustToken smart contracts.
 - [Uniswap/uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) - Core smart contracts of Uniswap v3.
+- [wyvernprotocol/wyvern-v3](https://github.com/wyvernprotocol/wyvern-v3) - Core smart contracts for Wyvern v3, a decentralized digital asset exchange protocol.
 
 #### Templates
 
