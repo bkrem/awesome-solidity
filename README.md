@@ -118,6 +118,7 @@
 #### Templates
 
 - [austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - Github template providing an Ethereum dev stack focused on fast product iterations.
+- [NodeFactoryIo/solidity-node-docker-starter](https://github.com/NodeFactoryIo/solidity-node-docker-starter) - Github template with Docker containers for building dApps with Truffle and Node.js as backend server.
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Github template for writing contracts (uses: Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, Prettier Plugin Solidity).
 - [tomhirst/solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - A full-stack dApp starter built with Next.js (React).
 
@@ -142,7 +143,6 @@
 
 - [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
-- [DApp development starter](https://github.com/NodeFactoryIo/solidity-node-docker-starter) - Starter repository with Docker containers for building decentralized applications with Truffle and Node.Js as backend server.
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating javascript modules from Contracts for Decentralized Apps.
 - [dappsys](https://github.com/dapphub/dappsys) - Contract system framework for flexible multi-contract dapps.
 - [DappTools](https://dapp.tools/) - Command-line-friendly tools for blockchain development.
