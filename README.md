@@ -34,13 +34,14 @@
 - [Libraries](#libraries)
 - [Tools](#tools)
   - [General](#general)
+  - [Utility](#utility)
   - [Audit](#audit)
   - [DevOps](#devops)
+- [Languages](#languages)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
   - [Rust](#rust)
   - [OCaml](#ocaml)
-  - [Utility](#utility)
 - [Editor Plugins](#editor-plugins)
   - [Atom](#atom)
   - [Eclipse](#eclipse)
@@ -186,6 +187,18 @@
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 - [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
 
+#### Utility
+
+- [crytic/solc-select](https://github.com/crytic/solc-select) - CLI to quickly switch between compiler versions.
+- [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
+- [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
+- [sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list & store solidity smart contract methods attributes.
+- [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
+- [sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
+- [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
+- [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
+- [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
+
 #### Audit
 
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
@@ -200,6 +213,8 @@
 
 - [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
 - [Moesif](https://www.moesif.com/docs/platform/ethereum-web3/) - Service that provides Ethereum smart contract analytics and anomaly detection for DApps and DAPIs.
+
+## Languages
 
 #### JavaScript
 
@@ -220,18 +235,6 @@
 #### OCaml
 
 - [ocaml-solidity](https://ocamlpro.github.io/ocaml-solidity/) - OCaml library providing a parser, a typechecker and miscellaneous utilities for manipulating contracts.
-
-#### Utility
-
-- [crytic/solc-select](https://github.com/crytic/solc-select) - CLI to quickly switch between compiler versions.
-- [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
-- [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
-- [sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list & store solidity smart contract methods attributes.
-- [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
-- [sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
-- [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
-- [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
-- [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
 
 ## Editor Plugins
 
