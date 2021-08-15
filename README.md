@@ -41,7 +41,6 @@
   - [Rust](#rust)
   - [OCaml](#ocaml)
   - [Utility](#utility)
-  - [Webpack](#webpack)
 - [Editor Plugins](#editor-plugins)
   - [Atom](#atom)
   - [Eclipse](#eclipse)
@@ -233,10 +232,6 @@
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
 - [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
-
-#### Webpack
-
-- [solidity-loader](https://github.com/jeffscottward/solidity-loader) - Webpack loader.
 
 ## Editor Plugins
 
