@@ -10,6 +10,9 @@
     <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
+    <a href="https://gitcoin.co/grants/3371/awesome-solidity">
+      <img alt="support via gitcoin badge" src="https://img.shields.io/badge/Support%20via-GitCoin-purple">
+    </a>
   </p>
   
   <p align="center">A curated list of awesome <a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a> resources, libraries, tools and more.</p>
