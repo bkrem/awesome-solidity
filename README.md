@@ -7,6 +7,9 @@
     <a href="#buildstatus">
       <img alt="build status badge" src="https://github.com/bkrem/awesome-solidity/workflows/Build/badge.svg">
     </a>
+    <a href="https://github.com/bkrem/awesome-solidity/graphs/contributors">
+      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/bkrem/awesome-solidity">
+    </a>
     <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
