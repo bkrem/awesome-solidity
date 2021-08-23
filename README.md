@@ -151,6 +151,7 @@
 
 ## Libraries
 
+- [0age/HomeWork](https://github.com/0age/HomeWork) - An autonomous utility for finding, sharing and reusing home addresses for contracts.
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity.
 - [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
