@@ -26,36 +26,36 @@
 ### Contents
 
 - [Resources](#resources)
-  - [Official](#official)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Security](#security)
-  - [Examples](#examples)
-    - [Educational](#educational)
-    - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
-  - [Templates](#templates)
-  - [Books](#books)
-  - [Practice](#practice)
-  - [Jobs](#jobs)
+    - [Official](#official)
+    - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Security](#security)
+    - [Examples](#examples)
+      - [Educational](#educational)
+      - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
+    - [Templates](#templates)
+    - [Books](#books)
+    - [Practice](#practice)
+    - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
-  - [General](#general)
-  - [Utility](#utility)
-  - [Audit](#audit)
-  - [DevOps](#devops)
+    - [General](#general)
+    - [Utility](#utility)
+    - [Audit](#audit)
+    - [DevOps](#devops)
 - [Languages](#languages)
-  - [JavaScript](#javascript)
-  - [TypeScript](#typescript)
-  - [Rust](#rust)
-  - [OCaml](#ocaml)
+    - [JavaScript](#javascript)
+    - [TypeScript](#typescript)
+    - [Rust](#rust)
+    - [OCaml](#ocaml)
 - [Editor Plugins](#editor-plugins)
-  - [Atom](#atom)
-  - [Eclipse](#eclipse)
-  - [Emacs](#emacs)
-  - [IntelliJ](#intellij)
-  - [Sublime](#sublime)
-  - [Vim](#vim)
-  - [Visual Studio Code](#visual-studio-code)
+    - [Atom](#atom)
+    - [Eclipse](#eclipse)
+    - [Emacs](#emacs)
+    - [IntelliJ](#intellij)
+    - [Sublime](#sublime)
+    - [Vim](#vim)
+    - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 ## Resources
@@ -204,15 +204,14 @@
 
 #### Utility
 
+- [Aniket-Engg/sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list & store solidity smart contract methods attributes.
+- [Aniket-Engg/sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
 - [crytic/solc-select](https://github.com/crytic/solc-select) - CLI to quickly switch between compiler versions.
-- [solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
-- [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
-- [sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list & store solidity smart contract methods attributes.
-- [sol-tester](https://github.com/androlo/sol-tester) - Utilities for building, linking and testing contracts using go-ethereum and the simulated chain.
-- [sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
-- [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
-- [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
-- [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
+- [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
+- [protofire/solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
+- [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
+- [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
+- [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
 
 #### Audit
 
