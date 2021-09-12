@@ -206,6 +206,7 @@
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 - [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
+- [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
 
 #### Utility
 
