@@ -121,6 +121,7 @@
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - Compound Protocol contracts.
 - [dharma-eng/dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) - Smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs.
 - [ensdomains/ens-contracts](https://github.com/ensdomains/ens-contracts) - Ethereum Name Service (ENS) contracts.
+- [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Graph Protocol Contracts.
 - [OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) - OlympusDAO contracts.
 - [smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken) - LINK token contracts for the Chainlink Network.
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushiswap smart contracts.
