@@ -116,6 +116,7 @@
 
 ##### Deployed on Ethereum Mainnet
 
+- [andrecronje/rarity](https://github.com/andrecronje/rarity) - D20srd reference implementation.
 - [axieinfinity/ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts) - Axie Infinity Ronin contracts.
 - [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol contracts.
 - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - Compound Protocol contracts.
