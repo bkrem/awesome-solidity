@@ -84,8 +84,8 @@
 
 #### Articles
 
-- [Best Practices for Smart Contract Development (yos.io, 2019)](https://yos.io/2019/11/10/smart-contract-development-best-practices/) - Developer handbook for smart contract developers.
-- [Clean Contracts (wslyvh.com, 2020)](https://www.wslyvh.com/clean-contracts/) - Developer guide to writing clean smart contract code.
+- [Best Practices for Smart Contract Development (yos.io, Yos Riady, 2019)](https://yos.io/2019/11/10/smart-contract-development-best-practices/) - Developer handbook for smart contract developers.
+- [Clean Contracts (wslyvh.com, Wesley van Heije, 2020)](https://www.wslyvh.com/clean-contracts/) - Developer guide to writing clean smart contract code.
 - [The Complete Guide to Full Stack Ethereum Development (dev.to, Nader Dabit, 2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat.
 - [How to create an ERC20 Token and a Solidity Vendor Contract (medium.com, Emanuele Ricci, 2021)](https://stermi.medium.com/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-8882808dd905) - Create your own ERC20 Token and a Token Vendor Contract that will handle the sell/buy process.
 - [soliditydeveloper.com/blog](https://soliditydeveloper.com/blog) - Concepts, guides, design patterns and more.
