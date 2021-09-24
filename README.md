@@ -144,7 +144,7 @@
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Github template for writing contracts (uses: Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, Prettier Plugin Solidity).
 - [tomhirst/solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - A full-stack dApp starter built with Next.js (React).
 - [ZumZoom/solidity-template](https://github.com/ZumZoom/solidity-template) - Hardhat template with preconfigured Github Actions and Coveralls support.
-- [Typescript Solidity Dev Starter Kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - This is a starter kit for developing, testing, and deploying smart contracts with a full Typescript environment. 
+- [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for developing, testing, and deploying smart contracts with a full Typescript environment. 
 
 #### Books
 
