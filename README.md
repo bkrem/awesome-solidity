@@ -72,7 +72,7 @@
 
 #### Tutorials
 
-- [\_buildspace](https://buildspace.so/) - An hands-on Web3 course especially for beginners. It is completely free and you get a NFT on completion.
+- [\_buildspace](https://buildspace.so/) - A hands-on Web3 course especially for beginners. It is completely free and you get a NFT on completion.
 - [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
