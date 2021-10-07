@@ -26,36 +26,36 @@
 ### Contents
 
 - [Resources](#resources)
-    - [Official](#official)
-    - [Tutorials](#tutorials)
-    - [Articles](#articles)
-    - [Security](#security)
-    - [Examples](#examples)
-      - [Educational](#educational)
-      - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
-    - [Templates](#templates)
-    - [Books](#books)
-    - [Practice](#practice)
-    - [Jobs](#jobs)
+  - [Official](#official)
+  - [Tutorials](#tutorials)
+  - [Articles](#articles)
+  - [Security](#security)
+  - [Examples](#examples)
+    - [Educational](#educational)
+    - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
+  - [Templates](#templates)
+  - [Books](#books)
+  - [Practice](#practice)
+  - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
-    - [General](#general)
-    - [Utility](#utility)
-    - [Audit](#audit)
-    - [DevOps](#devops)
+  - [General](#general)
+  - [Utility](#utility)
+  - [Audit](#audit)
+  - [DevOps](#devops)
 - [Languages](#languages)
-    - [JavaScript](#javascript)
-    - [TypeScript](#typescript)
-    - [Rust](#rust)
-    - [OCaml](#ocaml)
+  - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
+  - [Rust](#rust)
+  - [OCaml](#ocaml)
 - [Editor Plugins](#editor-plugins)
-    - [Atom](#atom)
-    - [Eclipse](#eclipse)
-    - [Emacs](#emacs)
-    - [IntelliJ](#intellij)
-    - [Sublime](#sublime)
-    - [Vim](#vim)
-    - [Visual Studio Code](#visual-studio-code)
+  - [Atom](#atom)
+  - [Eclipse](#eclipse)
+  - [Emacs](#emacs)
+  - [IntelliJ](#intellij)
+  - [Sublime](#sublime)
+  - [Vim](#vim)
+  - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 ## Resources
@@ -72,6 +72,7 @@
 
 #### Tutorials
 
+- [buildspace.so](https://buildspace.so/) - Hands-on Web3 course especially for beginners. It is completely free and you get an NFT on completion.
 - [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
@@ -144,7 +145,7 @@
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Github template for writing contracts (uses: Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, Prettier Plugin Solidity).
 - [tomhirst/solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - A full-stack dApp starter built with Next.js (React).
 - [ZumZoom/solidity-template](https://github.com/ZumZoom/solidity-template) - Hardhat template with preconfigured Github Actions and Coveralls support.
-- [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for developing, testing, and deploying smart contracts with a full Typescript environment. 
+- [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for developing, testing, and deploying smart contracts with a full Typescript environment.
 
 #### Books
 
