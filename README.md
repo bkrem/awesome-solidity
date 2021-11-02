@@ -69,6 +69,7 @@
 - [Gitter](https://gitter.im/ethereum/solidity/) - Gitter channel.
 - [ethereum/solidity](https://github.com/ethereum/solidity/) - Source code.
 - [ethereum/solc-bin](https://github.com/ethereum/solc-bin) - Current and historical builds of the compiler.
+- [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - Loose collection of example code.
 
 #### Tutorials
 
@@ -109,7 +110,6 @@
 
 ##### Educational
 
-- [chriseth/solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 - [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
