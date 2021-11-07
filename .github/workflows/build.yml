@@ -2,9 +2,9 @@ name: Build
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   test:
@@ -18,4 +18,4 @@ jobs:
       - name: Install awesome_bot
         run: gem install awesome_bot
       - name: Check URLs
-        run: awesome_bot README.md --allow-redirect
+        run: awesome_bot README.md --allow-redirect --request-delay 0.03
