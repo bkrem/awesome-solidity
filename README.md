@@ -217,6 +217,7 @@
 - [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
+- [EthereumStudio](https://github.com/ObsidianLabs/EthereumStudio) - Standalone desktop IDE.
 - [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyse and instrument source code.
 - [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - A home for ethereum smart contracts, all verified smart contracts from Etherscan.
