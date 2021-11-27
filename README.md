@@ -213,6 +213,7 @@
 
 #### General
 
+- [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
 - [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
 - [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
