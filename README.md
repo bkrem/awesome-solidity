@@ -260,6 +260,7 @@
 
 #### JavaScript
 
+- [deno-web3/solc](https://github.com/deno-web3/solc) - Solidity bindings for Deno.
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
 - [solidity-parser](https://github.com/federicobond/solidity-parser-antlr) - Solidity parser built in JavaScript.
 - [sulk](https://github.com/lukehedger/sulk) - Configurable contract compilation.
