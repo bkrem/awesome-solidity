@@ -240,6 +240,7 @@
 - [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
 - [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
+- [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 
 #### Audit
 
