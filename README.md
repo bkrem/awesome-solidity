@@ -5,7 +5,7 @@
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     </a>
     <a href="#buildstatus">
-      <img alt="build status badge" src="https://github.com/bkrem/awesome-solidity/workflows/Build/badge.svg">
+      <img alt="build status badge" src="https://github.com/bkrem/awesome-solidity/workflows/URLs/badge.svg">
     </a>
     <a href="https://github.com/bkrem/awesome-solidity/graphs/contributors">
       <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/bkrem/awesome-solidity">
@@ -26,36 +26,36 @@
 ### Contents
 
 - [Resources](#resources)
-    - [Official](#official)
-    - [Tutorials](#tutorials)
-    - [Articles](#articles)
-    - [Security](#security)
-    - [Examples](#examples)
-      - [Educational](#educational)
-      - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
-    - [Templates](#templates)
-    - [Books](#books)
-    - [Practice](#practice)
-    - [Jobs](#jobs)
+  - [Official](#official)
+  - [Tutorials](#tutorials)
+  - [Articles](#articles)
+  - [Security](#security)
+  - [Examples](#examples)
+    - [Educational](#educational)
+    - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
+  - [Templates](#templates)
+  - [Books](#books)
+  - [Practice](#practice)
+  - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
-    - [General](#general)
-    - [Utility](#utility)
-    - [Audit](#audit)
-    - [DevOps](#devops)
+  - [General](#general)
+  - [Utility](#utility)
+  - [Audit](#audit)
+  - [DevOps](#devops)
 - [Languages](#languages)
-    - [JavaScript](#javascript)
-    - [TypeScript](#typescript)
-    - [Rust](#rust)
-    - [OCaml](#ocaml)
+  - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
+  - [Rust](#rust)
+  - [OCaml](#ocaml)
 - [Editor Plugins](#editor-plugins)
-    - [Atom](#atom)
-    - [Eclipse](#eclipse)
-    - [Emacs](#emacs)
-    - [IntelliJ](#intellij)
-    - [Sublime](#sublime)
-    - [Vim](#vim)
-    - [Visual Studio Code](#visual-studio-code)
+  - [Atom](#atom)
+  - [Eclipse](#eclipse)
+  - [Emacs](#emacs)
+  - [IntelliJ](#intellij)
+  - [Sublime](#sublime)
+  - [Vim](#vim)
+  - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 ## Resources
