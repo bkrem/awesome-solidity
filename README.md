@@ -26,36 +26,37 @@
 ### Contents
 
 - [Resources](#resources)
-  - [Official](#official)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Security](#security)
-  - [Examples](#examples)
-    - [Educational](#educational)
-    - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
-  - [Templates](#templates)
-  - [Books](#books)
-  - [Practice](#practice)
-  - [Jobs](#jobs)
+    - [Official](#official)
+    - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Security](#security)
+      - [Audits](#audits)
+    - [Examples](#examples)
+      - [Educational](#educational)
+      - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
+    - [Templates](#templates)
+    - [Books](#books)
+    - [Practice](#practice)
+    - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
-  - [General](#general)
-  - [Utility](#utility)
-  - [Audit](#audit)
-  - [DevOps](#devops)
+    - [General](#general)
+    - [Utility](#utility)
+    - [Audit](#audit)
+    - [DevOps](#devops)
 - [Languages](#languages)
-  - [JavaScript](#javascript)
-  - [TypeScript](#typescript)
-  - [Rust](#rust)
-  - [OCaml](#ocaml)
+    - [JavaScript](#javascript)
+    - [TypeScript](#typescript)
+    - [Rust](#rust)
+    - [OCaml](#ocaml)
 - [Editor Plugins](#editor-plugins)
-  - [Atom](#atom)
-  - [Eclipse](#eclipse)
-  - [Emacs](#emacs)
-  - [IntelliJ](#intellij)
-  - [Sublime](#sublime)
-  - [Vim](#vim)
-  - [Visual Studio Code](#visual-studio-code)
+    - [Atom](#atom)
+    - [Eclipse](#eclipse)
+    - [Emacs](#emacs)
+    - [IntelliJ](#intellij)
+    - [Sublime](#sublime)
+    - [Vim](#vim)
+    - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 ## Resources
@@ -108,6 +109,13 @@
 - [OriginProtocol/security](https://github.com/OriginProtocol/security) - Materials related to security: docs, checklists, processes.
 - [Rari-Capital/security-checklist](https://github.com/Rari-Capital/security-checklist) - Opinionated security and code quality checklist for smart contracts.
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
+
+##### Audits
+
+- [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Public security audits by the Trail of Bits Team.
+- [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
+- [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
+- [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
 
 #### Examples
 
