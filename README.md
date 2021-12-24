@@ -223,6 +223,7 @@
 
 - [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
 - [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
+- [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View the source of deployed Ethereum contracts in VSCode.
 - [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
