@@ -233,6 +233,7 @@
 - [Uniswap/uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery) - Peripheral smart contracts for interacting with Uniswap V3.
 - [wbobeirne/eth-balance-checker](https://github.com/wbobeirne/eth-balance-checker) - Smart contract and library pair that allows you to check for multiple ERC20 and Ether balances across multiple addresses in a single RPC call.
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
+- [Unicode Ethereum Project](https://github.com/devstein/unicode-eth) - Libraries and contracts for Unicode data, algorithms, and utilities.
 
 ## Tools
 
