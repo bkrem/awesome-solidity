@@ -123,6 +123,7 @@
 
 ##### Educational
 
+- [alephao/solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular implementations of ERC standards.
 - [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
@@ -135,7 +136,6 @@
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate language features.
 - [Solidity By Example](https://solidity-by-example.org/) - An introduction to the language with simple examples.
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/) - A curated overview of the best and latest resources on Ethereum, Solidity and Web3 development.
-- [alephao/solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular implementations of ERC standards.
 
 ##### Deployed on Ethereum Mainnet
 
@@ -247,6 +247,7 @@
 - [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
+- [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 - [EthereumStudio](https://github.com/ObsidianLabs/EthereumStudio) - Standalone desktop IDE.
 - [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
@@ -258,7 +259,6 @@
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 - [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
-- [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
 
 #### Utility
 
@@ -266,6 +266,7 @@
 - [Aniket-Engg/sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
 - [cleanunicorn/abi2signature](https://github.com/cleanunicorn/abi2signature) - Use the ABI of a smart contract to find out the function signatures.
 - [crytic/solc-select](https://github.com/crytic/solc-select) - CLI to quickly switch between compiler versions.
+- [DiverseSolutions/Diverse-Eth-Calculator](https://github.com/DiverseSolutions/Diverse-Eth-Calculator) - Website with Ethereum unit conversion & utility components.
 - [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting your code.
 - [protofire/solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
@@ -274,7 +275,6 @@
 - [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
 - [tintinweb/solgrep](https://github.com/tintinweb/solgrep) - A scriptable semantic grep utility for Solidity.
-- [DiverseSolutions/Diverse-Eth-Calculator](https://github.com/DiverseSolutions/Diverse-Eth-Calculator) - Website with Ethereum unit conversion & utility components.
 
 #### Audit
 
@@ -349,11 +349,11 @@
 
 > 👉 For a comprehensive list, see [results for "Solidity" on Visual Studio Marketplace](https://marketplace.visualstudio.com/search?term=solidity&target=VSCode&category=All%20categories&sortBy=Relevance).
 
+- [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) - A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.
 - [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) - Visual Code Extension to generate & store smart contract methods profile.
 - [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
 - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Visual Security audit, Security centric syntax and semantic highlighting, detailed class outline, UML diagram generator, and many more features.
 - [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity Contracts using truffle-flattener
-- [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) - A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.
 - [Truffle for VS Code](https://marketplace.visualstudio.com/items?itemName=trufflesuite-csi.truffle-vscode) -  Truffle for VS Code simplifies how you create, build, debug and deploy smart contracts on Ethereum and all EVM-compatible blockchains and layer 2 scaling solutions.
 
 ---
