@@ -89,6 +89,7 @@
 - [topmonks/solidity_quick_ref](https://topmonks.github.io/solidity_quick_ref/) - Syntax overview.
 - [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - A curated list of free, community tutorials that are based around specific projects, tasks or challenges.
+- [Free and Paid online courses about Solidity](https://skillcombo.com/topic/solidity/)
 
 #### Articles
 
