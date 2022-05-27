@@ -185,6 +185,7 @@
 - [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
 - [web3.career](https://web3.career) - Job board for web3 jobs.
 - [crypto.jobs](https://crypto.jobs) - CryptoJobs is the #1 website for blockchain jobs.
+- [nextcryptojobs.com](https://nextcryptojobs.com/) - An exclusive Crypto Job Board for Blockchain & Cryptocurrencies.
 
 ## Libraries
 
