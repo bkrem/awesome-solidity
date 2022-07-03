@@ -269,7 +269,8 @@
 - [cleanunicorn/abi2signature](https://github.com/cleanunicorn/abi2signature) - Use the ABI of a smart contract to find out the function signatures.
 - [crytic/solc-select](https://github.com/crytic/solc-select) - CLI to quickly switch between compiler versions.
 - [DiverseSolutions/Diverse-Eth-Calculator](https://github.com/DiverseSolutions/Diverse-Eth-Calculator) - Website with Ethereum unit conversion & utility components.
-- [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
+- [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in smart contracts.
+- [ItsNickBarry/hardhat-contract-sizer](https://github.com/ItsNickBarry/hardhat-contract-sizer) - Output contract sizes with Hardhat.
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting your code.
 - [protofire/solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
 - [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
