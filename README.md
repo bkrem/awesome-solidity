@@ -109,6 +109,7 @@
 - [Ethereum Smart Contract Security Best Practices (Consensys)](https://consensys.github.io/smart-contract-best-practices/) - General security philosophy, known attacks, and sample code.
 - [OriginProtocol/security](https://github.com/OriginProtocol/security) - Materials related to security: docs, checklists, processes.
 - [Rari-Capital/security-checklist](https://github.com/Rari-Capital/security-checklist) - Opinionated security and code quality checklist for smart contracts.
+- [SecDim](https://secdim.com) - Online edutainment platform with content on smart contract security using real world examples, as well as online appsec games.
 - [securing/SCSVS](https://github.com/securing/SCSVS) - Smart Contract Security Verification Standard.
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
 
