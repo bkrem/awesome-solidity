@@ -294,6 +294,7 @@
 
 - [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
 - [Moesif](https://www.moesif.com/docs/platform/ethereum-web3/) - Service that provides Ethereum smart contract analytics and anomaly detection for DApps and DAPIs.
+- [Blocktorch](https://app.blocktorch.xyz) - Observability platform for the decentralized stack to see logs, metrics and traces in any decentralized component across chains.
 
 ## Languages
 
