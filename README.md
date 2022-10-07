@@ -50,7 +50,6 @@
     - [Rust](#rust)
     - [OCaml](#ocaml)
 - [Editor Plugins](#editor-plugins)
-    - [Atom](#atom)
     - [Eclipse](#eclipse)
     - [Emacs](#emacs)
     - [IntelliJ](#intellij)
@@ -321,13 +320,6 @@
 - [ocaml-solidity](https://ocamlpro.github.io/ocaml-solidity/) - OCaml library providing a parser, a typechecker and miscellaneous utilities for manipulating contracts.
 
 ## Editor Plugins
-
-#### Atom
-
-- [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses Solidity files to give you contextual autocomplete suggestions.
-- [Etheratom](https://atom.io/packages/etheratom) - Compile and deploy Solidity code from atom editor.
-- [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
-- [linter-solidity](https://atom.io/packages/linter-solidity) - Linter.
 
 #### Eclipse
 
