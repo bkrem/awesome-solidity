@@ -26,37 +26,37 @@
 ### Contents
 
 - [Resources](#resources)
-  - [Official](#official)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Security](#security)
-    - [Audits](#audits)
-  - [Examples](#examples)
-    - [Educational](#educational)
-    - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
-  - [Templates](#templates)
-  - [Books](#books)
-  - [Practice](#practice)
-  - [Jobs](#jobs)
+    - [Official](#official)
+    - [Tutorials](#tutorials)
+    - [Articles](#articles)
+    - [Security](#security)
+      - [Audits](#audits)
+    - [Examples](#examples)
+      - [Educational](#educational)
+      - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
+    - [Templates](#templates)
+    - [Books](#books)
+    - [Practice](#practice)
+    - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
-  - [General](#general)
-  - [Utility](#utility)
-  - [Audit](#audit)
-  - [DevOps](#devops)
+    - [General](#general)
+    - [Utility](#utility)
+    - [Audit](#audit)
+    - [DevOps](#devops)
 - [Languages](#languages)
-  - [JavaScript](#javascript)
-  - [TypeScript](#typescript)
-  - [Rust](#rust)
-  - [OCaml](#ocaml)
+    - [JavaScript](#javascript)
+    - [TypeScript](#typescript)
+    - [Rust](#rust)
+    - [OCaml](#ocaml)
 - [Editor Plugins](#editor-plugins)
-  - [Atom](#atom)
-  - [Eclipse](#eclipse)
-  - [Emacs](#emacs)
-  - [IntelliJ](#intellij)
-  - [Sublime](#sublime)
-  - [Vim](#vim)
-  - [Visual Studio Code](#visual-studio-code)
+    - [Atom](#atom)
+    - [Eclipse](#eclipse)
+    - [Emacs](#emacs)
+    - [IntelliJ](#intellij)
+    - [Sublime](#sublime)
+    - [Vim](#vim)
+    - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 ## Resources
@@ -73,6 +73,7 @@
 - [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - Loose collection of example code.
 
 #### Tutorials
+
 - [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [buildspace.so](https://buildspace.so/) - Hands-on Web3 course especially for beginners. It is completely free and you get an NFT on completion.
 - [Cadena](https://cadena.dev) - Tutorials for building smart contracts, dapps, on multiple chains and earn a Cadena NFT Certificate.
@@ -183,10 +184,11 @@
 
 #### Jobs
 
+- [aworker.io](https://aworker.io/) - Job board for blockchain and cryptocurrency jobs.
 - [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - Job board for blockchain and cryptocurrency jobs.
 - [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
-- [web3.career](https://web3.career) - Job board for web3 jobs.
-- [crypto.jobs](https://crypto.jobs) - CryptoJobs is the #1 website for blockchain jobs.
+- [crypto.jobs](https://crypto.jobs) - Job board for blockchain and cryptocurrency jobs.
+- [web3.career](https://web3.career) - Job board for blockchain and cryptocurrency jobs.
 
 ## Libraries
 
@@ -236,16 +238,14 @@
 #### General
 
 - [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
-- [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
-- [gakonst/foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View the source of deployed Ethereum contracts in VSCode.
-- [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Command-line-friendly tools for blockchain development.
 - [eagr/sol-repl](https://github.com/eagr/sol-repl) - Lightweight, feature-rich REPL for instant feedback.
 - [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
-- [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating javascript modules from Contracts for Decentralized Apps.
+- [gakonst/foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
@@ -260,7 +260,9 @@
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
 - [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
+- [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
+- [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
 
 #### Utility
 
@@ -360,8 +362,8 @@
 - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Visual Security audit, Security centric syntax and semantic highlighting, detailed class outline, UML diagram generator, and many more features.
 - [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity Contracts using truffle-flattener
 - [Solidity + Hardhat
-](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) - Adds general support for Solidity contracts development with features user expect to find in an IDE (code formatting, linting, prettifier, snippets, go to references, and so on). Go to choice for those relying on VSCode and Hardhat in their projects.
-- [Truffle for VS Code](https://marketplace.visualstudio.com/items?itemName=trufflesuite-csi.truffle-vscode) -  Truffle for VS Code simplifies how you create, build, debug and deploy smart contracts on Ethereum and all EVM-compatible blockchains and layer 2 scaling solutions.
+  ](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) - Adds general support for Solidity contracts development with features user expect to find in an IDE (code formatting, linting, prettifier, snippets, go to references, and so on). Go to choice for those relying on VSCode and Hardhat in their projects.
+- [Truffle for VS Code](https://marketplace.visualstudio.com/items?itemName=trufflesuite-csi.truffle-vscode) - Truffle for VS Code simplifies how you create, build, debug and deploy smart contracts on Ethereum and all EVM-compatible blockchains and layer 2 scaling solutions.
 
 ---
 
