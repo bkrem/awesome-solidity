@@ -295,6 +295,7 @@
 
 - [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
 - [Moesif](https://www.moesif.com/docs/platform/ethereum-web3/) - Service that provides Ethereum smart contract analytics and anomaly detection for DApps and DAPIs.
+- [solidity-sizer](https://github.com/unstoppabledomains/solidity-sizer) - GitHub Action that adds a comment to the PR indicating the size of contracts, including size differences.
 
 ## Languages
 
