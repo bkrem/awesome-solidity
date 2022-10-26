@@ -160,6 +160,7 @@
 #### Templates
 
 - [austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - Github template providing an Ethereum dev stack focused on fast product iterations.
+- [donBarbos/hardhat-template](https://github.com/donBarbos/hardhat-template) - Hardhat template with configured CI using best practices.
 - [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - React components and hooks to build dApps fast without running your own backend.
 - [gakonst/dapptools-template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
 - [NodeFactoryIo/solidity-node-docker-starter](https://github.com/NodeFactoryIo/solidity-node-docker-starter) - Github template with Docker containers for building dApps with Truffle and Node.js as backend server.
