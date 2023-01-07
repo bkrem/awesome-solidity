@@ -141,7 +141,7 @@
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate language features.
 - [Solidity By Example](https://solidity-by-example.org/) - An introduction to the language with simple examples.
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/) - A curated overview of the best and latest resources on Ethereum, Solidity and Web3 development.
-- [WTF Academy - Web3 Open Academy](https://wtf.academy/) - A Dapp that allows you to learn Solidity, test with quizzes, and get certificate for you skill.
+- [WTF Academy - Web3 Open Academy](https://wtf.academy/) - A Dapp that allows you to learn Solidity, test with quizzes, and get certificate for you skill [Chinese Language - 中文版].
 
 ##### Deployed on Ethereum Mainnet
 
