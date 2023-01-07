@@ -90,6 +90,9 @@
 - [nishuzumi/Web3-Enterprise-level-engineering](https://github.com/nishuzumi/Web3-Enterprise-level-engineering) - Web3 Enterprise Engineering Writing Specification Tutorial [Chinese Language - 中文版].
 - [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - A curated list of free, community tutorials that are based around specific projects, tasks or challenges.
+- [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) - An open-source and community reviewed tutorial in Chinese and English, covering intro, advanced, and application topics.
+- [WTF Ethers](https://github.com/WTFAcademy/WTF-Ethers) - An open-source and community reviewed Ethers.js tutorial in Chinese covering intro and advanced topics [Chinese Language - 中文版].
+
 
 #### Articles
 
@@ -138,6 +141,7 @@
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate language features.
 - [Solidity By Example](https://solidity-by-example.org/) - An introduction to the language with simple examples.
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/) - A curated overview of the best and latest resources on Ethereum, Solidity and Web3 development.
+- [WTF Academy - Web3 Open Academy](https://wtf.academy/) - A Dapp that allows you to learn Solidity, test with quizzes, and get certificate for you skill [Chinese Language - 中文版].
 
 ##### Deployed on Ethereum Mainnet
 
