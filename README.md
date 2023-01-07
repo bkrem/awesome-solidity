@@ -91,7 +91,7 @@
 - [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - A curated list of free, community tutorials that are based around specific projects, tasks or challenges.
 - [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) - An open-source and community reviewed tutorial in Chinese and English, covering intro, advanced, and application topics.
-- [WTF Ethers](https://github.com/WTFAcademy/WTF-Ethers) - An open-source and community reviewed Ethers.js tutorial in Chinese covering intro and advanced topics.
+- [WTF Ethers](https://github.com/WTFAcademy/WTF-Ethers) - An open-source and community reviewed Ethers.js tutorial in Chinese covering intro and advanced topics [Chinese Language - 中文版].
 
 
 #### Articles
