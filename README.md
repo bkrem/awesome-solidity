@@ -72,7 +72,7 @@
 - [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - Loose collection of example code.
 
 #### Tutorials
-
+- [AlchemyLearn](https://university.alchemy.com/) - Fast track your web3 career through courses, projects and code. Powered by [AlchemyPlatform](https://twitter.com/alchemyplatform)
 - [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [buildspace.so](https://buildspace.so/) - Hands-on Web3 course especially for beginners. It is completely free and you get an NFT on completion.
 - [Cadena](https://cadena.dev) - Tutorials for building smart contracts, dapps, on multiple chains and earn a Cadena NFT Certificate.
@@ -82,6 +82,7 @@
 - [ExtropyIO/defi-bot](https://github.com/ExtropyIO/defi-bot) - Tutorial for building DeFi arbitrage bots.
 - [karmacoma-eth/sending-ether-cheat-sheet](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0) - Tips and best practices for sending Ether.
 - [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - Learn Solidity in 15 mins (for experienced devs).
+- [LearnWeb3Dao](http://learnweb3.io/) - A free program that will turn you into a web3 developer. Build a Web3 career the quickest way possible.
 - [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Cheat sheet and best practices.
 - [Questbook](https://www.questbook.app/) - Questbook is building a University DAO where learning is always free. Starting with crypto-dev courses by leading devs.
 - [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review syntax of both languages side-by-side.
@@ -92,6 +93,7 @@
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - A curated list of free, community tutorials that are based around specific projects, tasks or challenges.
 - [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) - An open-source and community reviewed tutorial in Chinese and English, covering intro, advanced, and application topics.
 - [WTF Ethers](https://github.com/WTFAcademy/WTF-Ethers) - An open-source and community reviewed Ethers.js tutorial in Chinese covering intro and advanced topics [Chinese Language - 中文版].
+- 
 
 
 #### Articles
