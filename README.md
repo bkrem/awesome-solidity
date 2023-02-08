@@ -285,6 +285,7 @@
 - [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
 - [tintinweb/solgrep](https://github.com/tintinweb/solgrep) - A scriptable semantic grep utility for Solidity.
+- [Bytes32 Converter Online](https://neptunemutual.com/web3-tools/string-to-bytes32-converter/) - Convert Solidity bytes32 to utf8 string or integers and vice versa.
 
 #### Audit
 
