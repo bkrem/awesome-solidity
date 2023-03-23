@@ -260,6 +260,7 @@
 - [Sourcify](https://sourcify.dev/) - Decentralized and open-sourced smart contract verification service.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
 - [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
+- [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
