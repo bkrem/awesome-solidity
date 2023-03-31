@@ -267,6 +267,7 @@
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
+- [Polybase](https://github.com/polybase/) - An open-source decentralized alternative to Firebase, Firestore etc. 
 
 #### Utility
 
