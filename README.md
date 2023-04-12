@@ -173,7 +173,6 @@
 - [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate.
 - [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop smart contracts.
 - [ZumZoom/solidity-template](https://github.com/ZumZoom/solidity-template) - Hardhat template with preconfigured Github Actions and Coveralls support.
-- [Create-web3-dapp](https://createweb3dapp.alchemy.com/) - Create a full-stack dApp in ~4 mins. Copy and paste features directly into your app.
 
 #### Books
 
