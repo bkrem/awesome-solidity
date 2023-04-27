@@ -258,6 +258,7 @@
 - [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyse and instrument source code.
 - [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - A home for ethereum smart contracts, all verified smart contracts from Etherscan.
 - [Sourcify](https://sourcify.dev/) - Decentralized and open-sourced smart contract verification service.
+- [Supercool](https://www.supercool.xyz/) - Relayer and account abstraction infra to automate smart contract interactions and give your users better UX when executing transactions.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
 - [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
 - [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
