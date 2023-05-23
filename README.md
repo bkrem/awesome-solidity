@@ -121,6 +121,8 @@
 - [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
 - [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
 - [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
+- [Hacken] (https://hacken.io/services/blockchain-security/smart-contract-security-audit/) - Public security audits by the Hacken Team.
+- [SpearbitDAO] (https://github.com/spearbit/portfolio) - Public security audits by the SpearbitDAO Team.
 
 #### Examples
 
