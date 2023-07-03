@@ -114,6 +114,7 @@
 - [SecDim](https://secdim.com) - Online edutainment platform with content on smart contract security using real world examples, as well as online appsec games.
 - [securing/SCSVS](https://github.com/securing/SCSVS) - Smart Contract Security Verification Standard.
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
+- [Rekt News](https://rekt.news/) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
 
 ##### Audits
 
