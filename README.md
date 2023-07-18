@@ -267,6 +267,7 @@
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
+- [BuildBear](https://www.buildbear.io/) - BuildBear simplifies the process of creating a custom private testnet sandbox of different blockchain networks such as Ethereum, Polygon, Binance Smart Chain, Avalanche, Fantom, Optimism, and Arbitrum Mainnets. 
 
 #### Utility
 
