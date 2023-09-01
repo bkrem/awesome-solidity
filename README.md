@@ -117,6 +117,7 @@
 
 ##### Audits
 
+- [Arbitrary Execution](https://github.com/arbitraryexecution/publications/tree/main/assessments) - Public security audits by the Arbitrary Execution Team.
 - [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Public security audits by the Trail of Bits Team.
 - [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
 - [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
