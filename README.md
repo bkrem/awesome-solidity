@@ -244,6 +244,7 @@
 #### General
 
 - [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
+- [List of Faucets for Public Testnets](https://www.buildbear.io/faucet) - List of Faucets for Public Testnets.
 - [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating javascript modules from Contracts for Decentralized Apps.
 - [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View the source of deployed Ethereum contracts in VSCode.
@@ -270,6 +271,7 @@
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
+- [BuildBear](https://www.buildbear.io/) - BuildBear provides developers with their own private Testnet to test their smart contracts and dApps, which can be forked from any EVM chain. It also provides a Faucet, Explorer, and RPC for testing purposes.
 
 #### Utility
 
