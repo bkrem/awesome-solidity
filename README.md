@@ -113,6 +113,7 @@
 - [SecDim](https://secdim.com) - Online edutainment platform with content on smart contract security using real world examples, as well as online appsec games.
 - [securing/SCSVS](https://github.com/securing/SCSVS) - Smart Contract Security Verification Standard.
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
+- [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 
 ##### Audits
 
