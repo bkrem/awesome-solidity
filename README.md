@@ -301,6 +301,7 @@
 - [eth-sri/securify2](https://github.com/eth-sri/securify2) - Tool for analyzing smart contracts for vulnerabilities and insecure coding.
 - [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
 - [MythX](https://mythx.io/) - Detection for security vulnerabilities in Ethereum smart contracts throughout the development life cycle
+- [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer.
 
 #### DevOps
 
