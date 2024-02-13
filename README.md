@@ -90,7 +90,7 @@
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - A curated list of free, community tutorials that are based around specific projects, tasks or challenges.
 - [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) - An open-source and community reviewed tutorial in Chinese and English, covering intro, advanced, and application topics.
 - [WTF Ethers](https://github.com/WTFAcademy/WTF-Ethers) - An open-source and community reviewed Ethers.js tutorial in Chinese covering intro and advanced topics [Chinese Language - 中文版].
-
+- [SpeedRunEthereum](https://speedrunethereum.com/) - Platform that aims to provide a structured learning path for onboarding developers. Get feedback from builders, and in the process unlock new challenges and proof of completion. Built with 🩶 at [BuidlGuidl](https://buidlguidl.com/).
 
 #### Articles
 
@@ -165,7 +165,7 @@
 
 #### Templates
 
-- [scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) - up-to-date toolkit for building decentralized applications (dapps). It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+- [scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) - Up-to-date toolkit for building decentralized applications (dapps). It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 - [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - React components and hooks to build dApps fast without running your own backend.
 - [gakonst/dapptools-template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
 - [NodeFactoryIo/solidity-node-docker-starter](https://github.com/NodeFactoryIo/solidity-node-docker-starter) - Github template with Docker containers for building dApps with Truffle and Node.js as backend server.
