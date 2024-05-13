@@ -175,6 +175,7 @@
 - [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate.
 - [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop smart contracts.
 - [ZumZoom/solidity-template](https://github.com/ZumZoom/solidity-template) - Hardhat template with preconfigured Github Actions and Coveralls support.
+- [catapulta-sh/catapulta-foundry-template](https://github.com/catapulta-sh/catapulta-foundry-template) - Zero-config template to deploy in +20 EVM networks with Catapulta and Foundry
 
 #### Books
 
@@ -270,6 +271,7 @@
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
+- [Catapulta](https://catapulta.sh) - Zero config smart contracts deployment platform, automate verifications and share deployment reports, compatible with Foundry and Hardhat.
 
 #### Utility
 
