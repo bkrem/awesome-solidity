@@ -117,6 +117,7 @@
 - [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
 - [Hacken](https://hacken.io/audits/) - Public security audits by the Hacken Team.
 - [SpearbitDAO](https://github.com/spearbit/portfolio) - Public security audits by the SpearbitDAO Team.
+- [Code4rena](https://code4rena.com/) - Auditors compete to identify and eliminate high-severity bugs before production.
 
 #### Examples
 
