@@ -123,7 +123,7 @@
 - [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
 - [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
 - [Hacken](https://hacken.io/audits/) - Public security audits by the Hacken Team.
-- [SpearbitDAO] (https://github.com/spearbit/portfolio) - Public security audits by the SpearbitDAO Team.
+- [SpearbitDAO](https://github.com/spearbit/portfolio) - Public security audits by the SpearbitDAO Team.
 
 #### Examples
 
