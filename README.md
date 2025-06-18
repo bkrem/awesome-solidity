@@ -26,36 +26,36 @@
 ### Contents
 
 - [Resources](#resources)
-    - [Official](#official)
-    - [Tutorials](#tutorials)
-    - [Articles](#articles)
-    - [Security](#security)
-      - [Audits](#audits)
-    - [Examples](#examples)
-      - [Educational](#educational)
-      - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
-    - [Templates](#templates)
-    - [Books](#books)
-    - [Practice](#practice)
-    - [Jobs](#jobs)
+  - [Official](#official)
+  - [Tutorials](#tutorials)
+  - [Articles](#articles)
+  - [Security](#security)
+    - [Audits](#audits)
+  - [Examples](#examples)
+    - [Educational](#educational)
+    - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
+  - [Templates](#templates)
+  - [Books](#books)
+  - [Practice](#practice)
+  - [Jobs](#jobs)
 - [Libraries](#libraries)
 - [Tools](#tools)
-    - [General](#general)
-    - [Utility](#utility)
-    - [Audit](#audit)
-    - [DevOps](#devops)
+  - [General](#general)
+  - [Utility](#utility)
+  - [Audit](#audit)
+  - [DevOps](#devops)
 - [Languages](#languages)
-    - [JavaScript](#javascript)
-    - [TypeScript](#typescript)
-    - [Rust](#rust)
-    - [OCaml](#ocaml)
+  - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
+  - [Rust](#rust)
+  - [OCaml](#ocaml)
 - [Editor Plugins](#editor-plugins)
-    - [Eclipse](#eclipse)
-    - [Emacs](#emacs)
-    - [IntelliJ](#intellij)
-    - [Sublime](#sublime)
-    - [Vim](#vim)
-    - [Visual Studio Code](#visual-studio-code)
+  - [Eclipse](#eclipse)
+  - [Emacs](#emacs)
+  - [IntelliJ](#intellij)
+  - [Sublime](#sublime)
+  - [Vim](#vim)
+  - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
 ## Resources
@@ -90,7 +90,6 @@
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - A curated list of free, community tutorials that are based around specific projects, tasks or challenges.
 - [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) - An open-source and community reviewed tutorial in Chinese and English, covering intro, advanced, and application topics.
 - [WTF Ethers](https://github.com/WTFAcademy/WTF-Ethers) - An open-source and community reviewed Ethers.js tutorial in Chinese covering intro and advanced topics [Chinese Language - 中文版].
-
 
 #### Articles
 
@@ -281,6 +280,7 @@
 - [DiverseSolutions/Diverse-Eth-Calculator](https://github.com/DiverseSolutions/Diverse-Eth-Calculator) - Website with Ethereum unit conversion & utility components.
 - [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in smart contracts.
 - [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different ethereum denominations (wei, gwei, ether).
+- [evmlord/multicall-sdk](https://github.com/evmlord/multicall-sdk) - Batch multiple contract calls into one via **Multicall3** on 285 + EVM chains.
 - [ItsNickBarry/hardhat-contract-sizer](https://github.com/ItsNickBarry/hardhat-contract-sizer) - Output contract sizes with Hardhat.
 - [Online ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/) - Online Solidity ABI Encoder to encode smart contract arguments, and also perform read and write operations on the blockchain.
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting your code.
