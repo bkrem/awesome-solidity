@@ -280,8 +280,8 @@
 - [DiverseSolutions/Diverse-Eth-Calculator](https://github.com/DiverseSolutions/Diverse-Eth-Calculator) - Website with Ethereum unit conversion & utility components.
 - [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in smart contracts.
 - [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/) - Online tool to convert the different ethereum denominations (wei, gwei, ether).
+- [evmlord/multicall-sdk](https://github.com/evmlord/multicall-sdk) - Batch multiple contract calls into one via **Multicall3** on 285 + EVM chains.
 - [ItsNickBarry/hardhat-contract-sizer](https://github.com/ItsNickBarry/hardhat-contract-sizer) - Output contract sizes with Hardhat.
-- [Multicall Sdk](https://github.com/evmlord/multicall-sdk) - Batch multiple contract calls into one via **Multicall3** on 285 + EVM chains.
 - [Online ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/) - Online Solidity ABI Encoder to encode smart contract arguments, and also perform read and write operations on the blockchain.
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting your code.
 - [protofire/solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
