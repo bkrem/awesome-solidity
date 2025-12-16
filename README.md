@@ -256,6 +256,7 @@
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
+- [LUMEN Genesis Kit](https://github.com/Lumen-Founder/LUMEN-GENESIS-KIT) - Decentralized World Computer infrastructure with autonomous agent kernel and context bus on Base Mainnet. Includes agent runtime, deployment tools, monitoring dashboard, and LangChain integration SDK.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
 - [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
 - [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
