@@ -194,6 +194,7 @@
 - [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
 - [crypto.jobs](https://crypto.jobs) - Job board for blockchain and cryptocurrency jobs.
 - [web3.career](https://web3.career) - Job board for blockchain and cryptocurrency jobs.
+- [sailonchain.com](https://sailonchain.com) - Job board for blockchain and cryptocurrency jobs.
 
 ## Libraries
 
