@@ -293,6 +293,7 @@
 
 #### Audit
 
+- [Aegis](https://github.com/StanleytheGoat/aegis) - DeFi safety MCP server and smart contract scanner that checks contracts against 165 exploit patterns, simulates transactions on forked chains, and provides on-chain enforcement via Base mainnet.
 - [a16z/metamorphic-contract-detector](https://github.com/a16z/metamorphic-contract-detector) - Check whether a given contract exhibits red flags that could indicate the potential for metamorphism instead of immutability.
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
 - [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types, and can prove correctness properties with symbolic execution.
