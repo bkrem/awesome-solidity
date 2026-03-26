@@ -376,3 +376,5 @@
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Ben Kremer](https://github.com/bkrem) has waived all copyright and related or neighboring rights to this work.
+
+- [www.lianxinshe666.com](https://www.lianxinshe666.com/) ChainNewsClub (链新社) - Chinese-language Web3 and blockchain learning platform including Solidity fundamentals
