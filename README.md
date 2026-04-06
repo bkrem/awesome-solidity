@@ -60,6 +60,7 @@
 
 ## Resources
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Solidity development workflow orchestration, automated smart contract management, and multi-agent coordination. MIT licensed.
 #### Official
 
 - [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
