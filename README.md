@@ -294,6 +294,7 @@
 #### Audit
 
 - [a16z/metamorphic-contract-detector](https://github.com/a16z/metamorphic-contract-detector) - Check whether a given contract exhibits red flags that could indicate the potential for metamorphism instead of immutability.
+- [ContractScan](https://github.com/h33min/contractscan) - Multi-engine smart contract scanner combining Slither, Mythril, Semgrep, Aderyn, and AI analysis with a free unlimited QuickScan tier.
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
 - [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types, and can prove correctness properties with symbolic execution.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
