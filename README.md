@@ -308,6 +308,7 @@
 - [Moesif](https://www.moesif.com/docs/platform/ethereum-web3/) - Service that provides Ethereum smart contract analytics and anomaly detection for DApps and DAPIs.
 - [solidity-sizer](https://github.com/unstoppabledomains/solidity-sizer) - GitHub Action that adds a comment to the PR indicating the size of contracts, including size differences.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=bkrem_awesome-solidity) - See what developers you follow are starring on GitHub. Free.
 ## Languages
 
 #### JavaScript
