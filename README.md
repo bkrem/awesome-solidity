@@ -147,6 +147,7 @@
 ##### Deployed on Ethereum Mainnet
 
 - [Abracadabra-money/magic-internet-money](https://github.com/Abracadabra-money/magic-internet-money) - Magic Internet Money (MIM) contracts.
+- [AgentLux](https://agentlux.ai/) - Identity and marketplace platform for AI agents on Base L2 using ERC-1155, ERC-8004, and UUPS upgradeable proxy contracts with OpenZeppelin v5.
 - [andrecronje/rarity](https://github.com/andrecronje/rarity) - D20srd reference implementation.
 - [axieinfinity/ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts) - Axie Infinity Ronin contracts.
 - [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol contracts.
