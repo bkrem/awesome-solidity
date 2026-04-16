@@ -59,6 +59,7 @@
 - [License](#license)
 
 ## Resources
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 #### Official
 
