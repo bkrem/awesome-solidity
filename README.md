@@ -111,14 +111,14 @@
 ##### Audits
 
 - [Arbitrary Execution](https://github.com/arbitraryexecution/publications/tree/main/assessments) - Public security audits by the Arbitrary Execution Team.
-- [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Public security audits by the Trail of Bits Team.
-- [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
-- [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
-- [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
-- [Hacken](https://hacken.io/audits/) - Public security audits by the Hacken Team.
-- [SpearbitDAO](https://github.com/spearbit/portfolio) - Public security audits by the SpearbitDAO Team.
 - [Code4rena](https://code4rena.com/) - Auditors compete to identify and eliminate high-severity bugs before production.
+- [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
+- [Hacken](https://hacken.io/audits/) - Public security audits by the Hacken Team.
 - [Immunefi](https://immunefi.com/) - Bug bounty platform focused on blockchain and smart contract security.
+- [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
+- [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
+- [SpearbitDAO](https://github.com/spearbit/portfolio) - Public security audits by the SpearbitDAO Team.
+- [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Public security audits by the Trail of Bits Team.
 
 #### Examples
 
