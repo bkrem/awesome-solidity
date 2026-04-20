@@ -74,7 +74,6 @@
 
 - [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [buildspace.so](https://buildspace.so/) - Hands-on Web3 course especially for beginners. It is completely free and you get an NFT on completion.
-- [Cadena](https://cadena.dev) - Tutorials for building smart contracts, dapps, on multiple chains and earn a Cadena NFT Certificate.
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
 - [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
@@ -192,7 +191,6 @@
 - [aworker.io](https://aworker.io/) - Job board for blockchain and cryptocurrency jobs.
 - [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - Job board for blockchain and cryptocurrency jobs.
 - [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
-- [crypto.jobs](https://crypto.jobs) - Job board for blockchain and cryptocurrency jobs.
 - [web3.career](https://web3.career) - Job board for blockchain and cryptocurrency jobs.
 
 ## Libraries
