@@ -178,6 +178,7 @@
 - [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
 - [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) - A set of challenges to hack implementations of DeFi in Ethereum.
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Ethernaut is a Web3/Solidity based wargame to be played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+- [Solidity-Challenges](https://github.com/passandscore/solidity-challenges) - Offers a wide range of challenges, from language-specific tasks to exploit-focused scenarios. Contributors are welcome to add new challenges.
 
 #### Jobs
 
