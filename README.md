@@ -71,6 +71,7 @@
 - [buildspace.so](https://buildspace.so/) - Hands-on Web3 course especially for beginners. It is completely free and you get an NFT on completion.
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
+- [Cyfrin Updraft](https://updraft.cyfrin.io/) - The leading smart contract development learning platform to kickstart your career and build real world projects, guided by industry leading experts.
 - [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
 - [ExtropyIO/defi-bot](https://github.com/ExtropyIO/defi-bot) - Tutorial for building DeFi arbitrage bots.
 - [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - Learn Solidity in 15 mins (for experienced devs).
@@ -122,7 +123,7 @@
 
 ##### Educational
 
-- [alephao/solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular implementations of ERC standards.
+- [alephao/solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular implementations of ERC standards. 
 - [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
@@ -281,6 +282,7 @@
 #### Audit
 
 - [a16z/metamorphic-contract-detector](https://github.com/a16z/metamorphic-contract-detector) - Check whether a given contract exhibits red flags that could indicate the potential for metamorphism instead of immutability.
+- [Aderyn](https://github.com/Cyfrin/aderyn) - It is a Rust-based open-source solidity smart contract static analyzer designed to help protocol engineers and security researchers find vulnerabilities in Solidity code bases.
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
 - [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types, and can prove correctness properties with symbolic execution.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
