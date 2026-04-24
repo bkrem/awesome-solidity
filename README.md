@@ -194,6 +194,7 @@
 - [0age/HomeWork](https://github.com/0age/HomeWork) - Autonomous utility for finding, sharing, and reusing home addresses for contracts.
 - [0age/Spawner](https://github.com/0age/Spawner) - Spawn EIP 1167 minimal proxies with an included initialization step during contract creation.
 - [0xcert/ethereum-erc721](https://github.com/0xcert/ethereum-erc721) - Non-fungible token implementation for Ethereum-based blockchains.
+- [agentlux/erc-8004](https://github.com/agentlux/erc-8004) - ERC-8004 identity and reputation reference contracts with tests, deploy scripts, and published Base deployment records.
 - [alexvansande/ENSTools](https://github.com/alexvansande/ENSTools) - Set of contracts that extends ENS functionality to other smart contracts.
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities.
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing common data structures and utilities in multiple smart contract languages.
