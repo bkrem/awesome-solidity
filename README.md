@@ -289,6 +289,7 @@
 - [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types and can prove correctness properties with symbolic execution.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [MythX](https://mythx.io/) - Detect security vulnerabilities in Ethereum smart contracts throughout the development lifecycle.
+- [ContractScan](https://dutchaiagency.github.io/contractscan-api/) - Free browser-based smart contract scanner with proxy detection, rug-pull analysis, DEX liquidity checks, and Sourcify source code verification across 6 chains.
 - [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
 
 #### DevOps
