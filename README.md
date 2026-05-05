@@ -245,6 +245,7 @@
 - [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain configuration manager for Hardhat, Foundry, viem, and ethers. One config file, all frameworks.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete dApp development environment as a Docker image you can run from the command line.
 - [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
