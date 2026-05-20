@@ -187,6 +187,7 @@
 - [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - Job board for blockchain and cryptocurrency jobs.
 - [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
 - [web3.career](https://web3.career) - Job board for blockchain and cryptocurrency jobs.
+- [PredictionJobs](https://predictionjobs.co/) - Job board for prediction market, crypto and web3 jobs. 
 
 ## Libraries
 
