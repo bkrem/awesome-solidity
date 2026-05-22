@@ -79,7 +79,7 @@
 - [Questbook](https://www.questbook.app/) - University DAO offering free crypto-dev courses by leading developers.
 - [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review both languages side by side.
 - [topmonks/solidity_quick_ref](https://topmonks.github.io/solidity_quick_ref/) - Syntax overview.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/?q=solidity) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - Curated list of free community tutorials built around specific projects, tasks, and challenges.
 - [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - Complete guide to getting started, creating your own crypto, ICOs, and deployment.
 - [WTF Ethers](https://github.com/WTFAcademy/WTF-Ethers) - Open-source, community-reviewed Ethers.js tutorial in Chinese covering intro and advanced topics [Chinese Language - 中文版].
