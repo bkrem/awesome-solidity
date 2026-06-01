@@ -207,6 +207,7 @@
 - [maple-labs/erc-20](https://github.com/maple-labs/erc-20) - Maple implementation of the ERC-20 standard.
 - [mattdf/RingCrypto](https://github.com/mattdf/RingCrypto) - Ring signature related implementations for Ethereum.
 - [mds1/solidity-trigonometry](https://github.com/mds1/solidity-trigonometry) - Library with basic trigonometry functions.
+- [MerkleBlue/defimath](https://github.com/MerkleBlue/defimath) - Gas-optimized library for DeFi math: Black-Scholes pricing, Greeks, interest rates, and statistics.
 - [Modular Libraries](https://github.com/modular-network/ethereum-libraries) - Deployed utility libraries to use in your smart contracts.
 - [mzhu25/sol2string](https://github.com/mzhu25/sol2string) - `LibUintToString` library for efficiently converting `uint256` values to strings.
 - [NTA-Capital/SolMATe](https://github.com/NTA-Capital/SolMATe) - Libraries for floating-point matrix manipulation, linear algebra operations, and vector math.
