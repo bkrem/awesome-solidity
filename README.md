@@ -260,6 +260,7 @@
 - [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - Interactive shell with lightweight session recording.
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework, and asset pipeline for Ethereum.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents. Free preflight checks Solana wallet trust signals; paid signed receipt via USDC micropayment. MCP: `https://intel.twzrd.xyz/mcp`
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - Simple and efficient operation-chaining/scripting language for the EVM.
 
 #### Utility
