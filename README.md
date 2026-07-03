@@ -264,6 +264,7 @@
 
 #### Utility
 
+- [All Things Web3 ABI Encoder](https://allthingsweb3.com/tools/abi-encoder) - Browser tool for encoding Solidity function calls and constructor arguments.
 - [Aniket-Engg/sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list and store smart contract method attributes.
 - [Aniket-Engg/sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify smart contracts on Etherscan.
 - [cleanunicorn/abi2signature](https://github.com/cleanunicorn/abi2signature) - Use the ABI of a smart contract to find out the function signatures.
