@@ -168,6 +168,7 @@
 - [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate.
 - [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop smart contracts.
 - [ZumZoom/solidity-template](https://github.com/ZumZoom/solidity-template) - Hardhat template with preconfigured GitHub Actions and Coveralls support.
+- [AMEOBIUS/darkbot-ai-templates](https://github.com/AMEOBIUS/darkbot-ai-templates) - 17 production-ready templates including Solidity ERC20+Presale (OpenZeppelin, whitelist, Foundry), plus Crypto Trading Bot, Crypto Payment Gateway, and more.
 
 #### Books
 
