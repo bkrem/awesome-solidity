@@ -137,6 +137,7 @@
 - [Solidity By Example](https://solidity-by-example.org/) - Introduction to the language with simple examples.
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/) - Curated overview of the best and latest Ethereum and Web3 development resources.
 - [WTF Academy - Web3 Open Academy](https://wtf.academy/) - DApp for learning smart contract development with quizzes and certificates [Chinese Language - 中文版].
+- [solidity-snippets](https://github.com/tiancaijb366-pixel/solidity-snippets) - 30 production-ready Solidity snippets covering ERC-20, ERC-721, access control, upgrades, and Yul assembly.
 
 ##### Deployed on Ethereum Mainnet
 
