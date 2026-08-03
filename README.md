@@ -258,6 +258,7 @@
 - [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for smart contract projects.
 - [Sourcify](https://sourcify.dev/) - Decentralized and open-sourced smart contract verification service.
 - [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
+- [Testnet Faucets](https://testnetfaucets.dev) - Directory of testnet faucets across 40+ networks, health-checked daily and verified on-chain, with a free JSON API.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - Interactive shell with lightweight session recording.
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework, and asset pipeline for Ethereum.
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - Simple and efficient operation-chaining/scripting language for the EVM.
