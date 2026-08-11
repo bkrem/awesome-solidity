@@ -14,10 +14,10 @@ The only CI check is `.github/workflows/build.yml` (workflow name: `URLs`). On e
 
 ```bash
 gem install awesome_bot
-awesome_bot README.md --allow-redirect --request-delay 0.2 --white-list stermi.medium.com
+awesome_bot README.md --allow-redirect --request-delay 0.2 --white-list stermi.medium.com,tenderly.co
 ```
 
-Run that command locally before committing when adding/changing links — a single dead URL fails the build. `awesome_bot` occasionally flags transient 4xx/5xx from rate limiting; re-running usually clears it. The `--white-list` flag skips a Medium URL that rate-limits awesome_bot; extend it (comma-separated) if a legitimate link keeps tripping CI.
+Run that command locally before committing when adding/changing links — a single dead URL fails the build. `awesome_bot` occasionally flags transient 4xx/5xx from rate limiting; re-running usually clears it. The `--white-list` flag skips legitimate links that rate-limit awesome_bot; extend it (comma-separated) if another valid link keeps tripping CI.
 
 ## Entry format and ordering (enforced by review, not CI)
 
