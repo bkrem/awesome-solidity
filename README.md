@@ -266,6 +266,7 @@
 
 #### Utility
 
+- [agentatwork/chainclock](https://github.com/agentatwork/chainclock) - Check whether block.number inside a contract is the chain's own height, before deploying to an L2 or L3.
 - [Aniket-Engg/sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list and store smart contract method attributes.
 - [Aniket-Engg/sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify smart contracts on Etherscan.
 - [cleanunicorn/abi2signature](https://github.com/cleanunicorn/abi2signature) - Use the ABI of a smart contract to find out the function signatures.
