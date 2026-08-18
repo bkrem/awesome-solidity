@@ -158,12 +158,12 @@
 
 #### Templates
 
-- [austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - GitHub template providing an Ethereum dev stack focused on fast product iterations.
 - [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - React components and hooks to build dApps fast without running your own backend.
 - [gakonst/dapptools-template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
 - [NodeFactoryIo/solidity-node-docker-starter](https://github.com/NodeFactoryIo/solidity-node-docker-starter) - GitHub template with Docker containers for building dApps with Truffle and Node.js as a backend server.
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - GitHub template for writing contracts with Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, and a Prettier plugin.
 - [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for developing, testing, and deploying smart contracts with a full TypeScript environment.
+- [scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) - Forkable Ethereum dev stack for building dApps, with a Next.js frontend, wagmi hooks and reusable web3 components.
 - [tomhirst/solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - Full-stack dApp starter built with Next.js (React).
 - [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate.
 - [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop smart contracts.
