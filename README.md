@@ -296,6 +296,7 @@
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [MythX](https://mythx.io/) - Detect security vulnerabilities in Ethereum smart contracts throughout the development lifecycle.
 - [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
+- [slither-chat](https://github.com/pxlcrtiv/slither-chat) - AI copilot for smart-contract audits: runs Slither, then classifies, explains, and suggests patches for every finding in plain English.
 
 #### DevOps
 
