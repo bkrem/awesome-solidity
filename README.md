@@ -283,6 +283,7 @@
 - [sambacha/prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - Prettier config optimized to reduce AST churn and conform to the language spec.
 - [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
+- [theshakeel/evm-calldata-decoder](https://github.com/theshakeel/evm-calldata-decoder) - Library + CLI to decode and encode EVM calldata from human-readable function signatures, with selector verification.
 - [tintinweb/solgrep](https://github.com/tintinweb/solgrep) - Scriptable semantic grep utility.
 
 #### Audit
