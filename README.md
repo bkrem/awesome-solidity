@@ -277,6 +277,7 @@
 - [formo/calldata-decoder](https://formo.so/tools/calldata-decoder) - Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
 - [formo/siwe](https://formo.so/tools/sign-in-with-ethereum) - Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
 - [ItsNickBarry/hardhat-contract-sizer](https://github.com/ItsNickBarry/hardhat-contract-sizer) - Output contract sizes with Hardhat.
+- [Pending](https://pending.one) - Zero-wallet stuck & pending EVM transaction diagnostician providing plain-English root causes, sequential nonce gaps, and replacement parameters.
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting your code.
 - [protofire/solhint](https://github.com/protofire/solhint) - Linter that provides security, style guide, and best practice rules for smart contract validation.
 - [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan and Sourcify from the Truffle command line.
