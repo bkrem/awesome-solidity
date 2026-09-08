@@ -289,6 +289,7 @@
 
 - [a16z/metamorphic-contract-detector](https://github.com/a16z/metamorphic-contract-detector) - Check whether a given contract exhibits red flags that could indicate the potential for metamorphism instead of immutability.
 - [Aderyn](https://github.com/Cyfrin/aderyn) - Rust-based open-source static analyzer for finding vulnerabilities in smart contracts.
+- [Bug Bounty Intelligence MCP](https://github.com/holistis/bug-bounty-intelligence-mcp) - MCP server that scans Solidity repos for vulnerabilities through a 7-gate verification framework, benchmarked against Slither.
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
 - [eth-sri/securify2](https://github.com/eth-sri/securify2) - Tool for analyzing smart contracts for vulnerabilities and insecure coding.
 - [ethereum/sourcify](https://github.com/ethereum/sourcify) - Re-compiler for verifying that bytecode corresponds to specific source code.
