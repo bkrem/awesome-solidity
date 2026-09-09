@@ -296,6 +296,7 @@
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [MythX](https://mythx.io/) - Detect security vulnerabilities in Ethereum smart contracts throughout the development lifecycle.
 - [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
+- [web3-audit-action](https://github.com/MaaBlock/web3-audit-action) - GitHub Action for automated static security and reentrancy analysis in CI/CD workflows.
 
 #### DevOps
 
