@@ -249,6 +249,7 @@
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete dApp development environment as a Docker image you can run from the command line.
 - [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
+- [OpenChainBench](https://openchainbench.com) - Continuous benchmarks for RPC provider latency, stale-state probability, and L1/L2 finality across 20+ EVM chains. Useful for infrastructure selection and integration testing.
 - [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
 - [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [Remix](https://remix.ethereum.org/) - Online real-time compiler and runtime.
