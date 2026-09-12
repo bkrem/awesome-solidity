@@ -197,6 +197,7 @@
 - [0xcert/ethereum-erc721](https://github.com/0xcert/ethereum-erc721) - Non-fungible token implementation for Ethereum-based blockchains.
 - [alexvansande/ENSTools](https://github.com/alexvansande/ENSTools) - Set of contracts that extends ENS functionality to other smart contracts.
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities.
+- [blazephoenixxyz-crypto/hook-safety-gate](https://github.com/blazephoenixxyz-crypto/hook-safety-gate-v3) - Default-closed admission gate for routing through Uniswap v4 hooks: screens return-delta permissions by address bitmask, pins each admitted hook's EXTCODEHASH so a proxy upgrade stops it being routable, zero dependencies.
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing common data structures and utilities in multiple smart contract languages.
 - [dapphub/dappsys](https://github.com/dapphub/dappsys) - Contract system framework for flexible multi-contract dapps.
 - [dmihal/hardhat-interface-generator](https://github.com/dmihal/hardhat-interface-generator) - Hardhat plugin to automatically generate interfaces from code.
