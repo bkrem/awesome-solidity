@@ -6,3 +6,4 @@
 - [ ] Each description starts with an uppercase character and ends with a period.<br>Example: `solc-js - JavaScript bindings for the compiler.`
 - [ ] Drop all `A` / `An` prefixes at the start of the description.
 - [ ] Avoid repeating the word `Solidity` in the description.
+- [ ] For a code project, the canonical public GitHub repository has at least 10 stars, a recognized license, and activity within the last 12 months.
