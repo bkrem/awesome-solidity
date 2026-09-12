@@ -252,6 +252,7 @@
 - [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
 - [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
 - [Remix](https://remix.ethereum.org/) - Online real-time compiler and runtime.
+- [Semantic Dapp](https://github.com/TacitvsXI/semantic-dapp) - Generate a usable user dApp and admin console from any EVM ABI with deterministic risk and audience classification.
 - [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyze and instrument source code.
 - [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - Home for Ethereum smart contracts, with verified contracts from Etherscan.
 - [sol-merger](https://github.com/RyuuGan/sol-merger) - Merge all imports into a single file for contracts.
