@@ -137,6 +137,7 @@
 - [Solidity By Example](https://solidity-by-example.org/) - Introduction to the language with simple examples.
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/) - Curated overview of the best and latest Ethereum and Web3 development resources.
 - [WTF Academy - Web3 Open Academy](https://wtf.academy/) - DApp for learning smart contract development with quizzes and certificates [Chinese Language - 中文版].
+- [RedDuck Academy](https://academy.redduck.io/) - Solidity lessons with runnable examples, based on RedDuck's internal developer onboarding curriculum.
 
 ##### Deployed on Ethereum Mainnet
 
