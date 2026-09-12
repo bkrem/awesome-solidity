@@ -247,6 +247,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete dApp development environment as a Docker image you can run from the command line.
+- [Krionex](https://krionex.com) - Non-custodial workspace to deploy, verify, and manage ERC20, ERC721, and ERC1155 contracts across EVM networks.
 - [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
 - [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
