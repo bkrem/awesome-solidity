@@ -64,7 +64,6 @@
 - [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Ethereum's Stack Exchange board.
 - [ethereum/solc-bin](https://github.com/ethereum/solc-bin) - Current and historical builds of the compiler.
 - [ethereum/solidity](https://github.com/ethereum/solidity/) - Source code.
-- [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - Loose collection of example code.
 
 #### Tutorials
 
@@ -97,13 +96,11 @@
 - [Crypto-Virus/cream-finance-exploit-example](https://github.com/Crypto-Virus/cream-finance-exploit-example) - Example implementation of the Cream Finance flashloan exploit.
 - [crytic/awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - Curated list of Ethereum security references, guidance, tools, and more.
 - [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material for writing secure smart contracts.
-- [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of common vulnerabilities, including code from real smart contracts.
 - [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) - Minimal example implementations of ERC20 tokens with surprising/unexpected behaviour.
 - [Ethereum Smart Contract Security Best Practices (Consensys)](https://consensys.github.io/smart-contract-best-practices/) - General security philosophy, known attacks, and sample code.
 - [OriginProtocol/security](https://github.com/OriginProtocol/security) - Materials related to security: docs, checklists, processes.
 - [Rari-Capital/security-checklist](https://github.com/Rari-Capital/security-checklist) - Opinionated security and code quality checklist for smart contracts.
 - [SecDim](https://secdim.com) - Online edutainment platform with real-world smart contract security content and AppSec games.
-- [securing/SCSVS](https://github.com/securing/SCSVS) - Smart Contract Security Verification Standard.
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry.
 
@@ -131,7 +128,6 @@
 - [libevm/subway](https://github.com/libevm/subway) - Practical example of how to perform sandwich attacks on Ethereum.
 - [lsaether/bonding-curves](https://github.com/lsaether/bonding-curves) - Smart contracts for bonding curves (aka curve bonded tokens).
 - [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps.
-- [miguelmota/solidity-idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Common gotchas, pitfalls, limitations, and idiosyncrasies.
 - [pedrobergamini/flashloaner-contract](https://github.com/pedrobergamini/flashloaner-contract) - Smart contracts that operate arbitrages between Sushiswap and Uniswap.
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - Collection of short yet fully functional contracts that demonstrate language features.
 - [Solidity By Example](https://solidity-by-example.org/) - Introduction to the language with simple examples.
@@ -140,7 +136,6 @@
 
 ##### Deployed on Ethereum Mainnet
 
-- [Abracadabra-money/magic-internet-money](https://github.com/Abracadabra-money/magic-internet-money) - Magic Internet Money (MIM) contracts.
 - [andrecronje/rarity](https://github.com/andrecronje/rarity) - D20srd reference implementation.
 - [axieinfinity/ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts) - Axie Infinity Ronin contracts.
 - [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol contracts.
@@ -150,7 +145,6 @@
 - [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Graph Protocol Contracts.
 - [OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) - OlympusDAO contracts.
 - [smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken) - LINK token contracts for the Chainlink Network.
-- [sushiswap/kashi-lending](https://github.com/sushiswap/kashi-lending) - Kashi Lending platform contracts.
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushiswap smart contracts.
 - [trusttoken/smart-contracts](https://github.com/trusttoken/smart-contracts) - TrustToken smart contracts.
 - [Uniswap/uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) - Core smart contracts of Uniswap v3.
@@ -159,7 +153,7 @@
 #### Templates
 
 - [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - React components and hooks to build dApps fast without running your own backend.
-- [gakonst/dapptools-template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
+- [foundry-rs/forge-template](https://github.com/foundry-rs/forge-template) - Template for getting started quickly with Foundry projects.
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - GitHub template for writing contracts with Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, and a Prettier plugin.
 - [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for developing, testing, and deploying smart contracts with a full TypeScript environment.
 - [scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) - Forkable Ethereum dev stack for building dApps, with a Next.js frontend, wagmi hooks and reusable web3 components.
@@ -194,15 +188,13 @@
 - [0age/Spawner](https://github.com/0age/Spawner) - Spawn EIP 1167 minimal proxies with an included initialization step during contract creation.
 - [0xcert/ethereum-erc721](https://github.com/0xcert/ethereum-erc721) - Non-fungible token implementation for Ethereum-based blockchains.
 - [alexvansande/ENSTools](https://github.com/alexvansande/ENSTools) - Set of contracts that extends ENS functionality to other smart contracts.
+- [Anchor](https://github.com/otter-sec/anchor) - Framework used with Solang for Solana projects.
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities.
-- [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing common data structures and utilities in multiple smart contract languages.
 - [dapphub/dappsys](https://github.com/dapphub/dappsys) - Contract system framework for flexible multi-contract dapps.
 - [dmihal/hardhat-interface-generator](https://github.com/dmihal/hardhat-interface-generator) - Hardhat plugin to automatically generate interfaces from code.
 - [EthWorks/Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts.
 - [hifi-finance/prb-math](https://github.com/hifi-finance/prb-math) - Smart contract library for advanced fixed-point math.
 - [ItsNickBarry/hardhat-abi-exporter](https://github.com/ItsNickBarry/hardhat-abi-exporter) - Export contract ABIs on compilation via Hardhat.
-- [Keydonix/uniswap-oracle](https://github.com/Keydonix/uniswap-oracle) - General purpose price feed oracle built on Uniswap v2 that uses merkle proofs under the hood.
-- [makerdao/multicall](https://github.com/makerdao/multicall) - Aggregate multiple constant function call results into one.
 - [maple-labs/erc-20](https://github.com/maple-labs/erc-20) - Maple implementation of the ERC-20 standard.
 - [mattdf/RingCrypto](https://github.com/mattdf/RingCrypto) - Ring signature related implementations for Ethereum.
 - [mds1/solidity-trigonometry](https://github.com/mds1/solidity-trigonometry) - Library with basic trigonometry functions.
@@ -217,13 +209,11 @@
 - [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
 - [rugpullindex/indexed-sparse-merkle-tree](https://github.com/rugpullindex/indexed-sparse-merkle-tree) - Dapptools-ready and gas-optimized implementation of a sparse merkle tree.
 - [Smart Contracts Skeleton](https://github.com/Shimmi/smart-contracts-skeleton) - Preconfigured skeleton repository for getting started with smart contract development.
-- [solana-labs/solana-solidity.js](https://github.com/solana-labs/solana-solidity.js) - Compile, deploy, and use contracts on Solana.
 - [Solidity Standard Library](https://github.com/alianse777/solidity-standard-library) - Standard library with array, random, math, and string helpers.
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first smart contract development library.
 - [studydefi/money-legos](https://github.com/studydefi/money-legos) - NPM package providing mainnet addresses, ABIs, and interfaces for popular DeFi protocols.
 - [ThirdWeb/Contracts](https://github.com/thirdweb-dev/contracts) - Pre-built contracts for Token, NFT, Governance and Marketplace from ThirdWeb.
 - [Unicode Ethereum Project](https://github.com/devstein/unicode-eth) - Libraries and contracts for Unicode data, algorithms, and utilities.
-- [Uniswap/merkle-distributor](https://github.com/Uniswap/merkle-distributor) - Smart contract that distributes a balance of tokens according to a merkle root.
 - [Uniswap/uniswap-v2-periphery](https://github.com/Uniswap/uniswap-v2-periphery) - Peripheral smart contracts for interacting with Uniswap V2.
 - [Uniswap/uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery) - Peripheral smart contracts for interacting with Uniswap V3.
 - [Vectorized/solady](https://github.com/Vectorized/solady) - Gas-optimized smart contract snippets.
@@ -281,12 +271,10 @@
 
 #### Audit
 
-- [a16z/metamorphic-contract-detector](https://github.com/a16z/metamorphic-contract-detector) - Check whether a given contract exhibits red flags that could indicate the potential for metamorphism instead of immutability.
 - [Aderyn](https://github.com/Cyfrin/aderyn) - Rust-based open-source static analyzer for finding vulnerabilities in smart contracts.
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
 - [eth-sri/securify2](https://github.com/eth-sri/securify2) - Tool for analyzing smart contracts for vulnerabilities and insecure coding.
 - [ethereum/sourcify](https://github.com/ethereum/sourcify) - Re-compiler for verifying that bytecode corresponds to specific source code.
-- [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types and can prove correctness properties with symbolic execution.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [MythX](https://mythx.io/) - Detect security vulnerabilities in Ethereum smart contracts throughout the development lifecycle.
 - [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
@@ -302,7 +290,6 @@
 
 - [deno-web3/solc](https://github.com/deno-web3/solc) - Compiler bindings for Deno.
 - [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the compiler.
-- [solidity-parser](https://github.com/federicobond/solidity-parser-antlr) - Parser built in JavaScript.
 - [sulk](https://github.com/lukehedger/sulk) - Configurable contract compilation.
 
 #### TypeScript
