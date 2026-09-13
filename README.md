@@ -160,12 +160,11 @@
 
 - [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - React components and hooks to build dApps fast without running your own backend.
 - [gakonst/dapptools-template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
-- [NodeFactoryIo/solidity-node-docker-starter](https://github.com/NodeFactoryIo/solidity-node-docker-starter) - GitHub template with Docker containers for building dApps with Truffle and Node.js as a backend server.
 - [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - GitHub template for writing contracts with Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, and a Prettier plugin.
 - [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for developing, testing, and deploying smart contracts with a full TypeScript environment.
 - [scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) - Forkable Ethereum dev stack for building dApps, with a Next.js frontend, wagmi hooks and reusable web3 components.
 - [tomhirst/solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - Full-stack dApp starter built with Next.js (React).
-- [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate.
+- [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry.
 - [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop smart contracts.
 - [ZumZoom/solidity-template](https://github.com/ZumZoom/solidity-template) - Hardhat template with preconfigured GitHub Actions and Coveralls support.
 
@@ -176,7 +175,6 @@
 
 #### Practice
 
-- [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
 - [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) - Set of challenges to hack DeFi implementations on Ethereum.
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3 wargame played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 - [Solidity-Challenges](https://github.com/passandscore/solidity-challenges) - Offers a wide range of challenges, from language-specific tasks to exploit-focused scenarios. Contributors are welcome to add new challenges.
@@ -224,12 +222,11 @@
 - [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first smart contract development library.
 - [studydefi/money-legos](https://github.com/studydefi/money-legos) - NPM package providing mainnet addresses, ABIs, and interfaces for popular DeFi protocols.
 - [ThirdWeb/Contracts](https://github.com/thirdweb-dev/contracts) - Pre-built contracts for Token, NFT, Governance and Marketplace from ThirdWeb.
-- [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas-optimized building blocks for smart contract development.
-- [truffle-assertions](https://github.com/rkalis/truffle-assertions) - Adds assertions and utilities for testing smart contracts with Truffle.
 - [Unicode Ethereum Project](https://github.com/devstein/unicode-eth) - Libraries and contracts for Unicode data, algorithms, and utilities.
 - [Uniswap/merkle-distributor](https://github.com/Uniswap/merkle-distributor) - Smart contract that distributes a balance of tokens according to a merkle root.
 - [Uniswap/uniswap-v2-periphery](https://github.com/Uniswap/uniswap-v2-periphery) - Peripheral smart contracts for interacting with Uniswap V2.
 - [Uniswap/uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery) - Peripheral smart contracts for interacting with Uniswap V3.
+- [Vectorized/solady](https://github.com/Vectorized/solady) - Gas-optimized smart contract snippets.
 - [wbobeirne/eth-balance-checker](https://github.com/wbobeirne/eth-balance-checker) - Smart contract and library pair that allows you to check for multiple ERC20 and Ether balances across multiple addresses in a single RPC call.
 
 ## Tools
@@ -237,13 +234,11 @@
 #### General
 
 - [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
-- [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating JavaScript modules from contracts for decentralized apps.
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Command-line-friendly tools for blockchain development.
 - [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View the source of deployed Ethereum contracts in VS Code.
 - [eagr/sol-repl](https://github.com/eagr/sol-repl) - Lightweight, feature-rich REPL for instant feedback.
 - [EthereumStudio](https://github.com/ObsidianLabs/EthereumStudio) - Standalone desktop IDE.
-- [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete dApp development environment as a Docker image you can run from the command line.
@@ -262,7 +257,6 @@
 - [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
 - [Testnet Faucets](https://testnetfaucets.dev) - Directory of testnet faucets across 40+ networks, health-checked daily and verified on-chain, with a free JSON API.
 - [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - Interactive shell with lightweight session recording.
-- [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework, and asset pipeline for Ethereum.
 - [weiroll/weiroll](https://github.com/weiroll/weiroll) - Simple and efficient operation-chaining/scripting language for the EVM.
 
 #### Utility
@@ -280,7 +274,6 @@
 - [ItsNickBarry/hardhat-contract-sizer](https://github.com/ItsNickBarry/hardhat-contract-sizer) - Output contract sizes with Hardhat.
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting your code.
 - [protofire/solhint](https://github.com/protofire/solhint) - Linter that provides security, style guide, and best practice rules for smart contract validation.
-- [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan and Sourcify from the Truffle command line.
 - [sambacha/prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - Prettier config optimized to reduce AST churn and conform to the language spec.
 - [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
@@ -314,7 +307,6 @@
 
 #### TypeScript
 
-- [Soltsice](https://github.com/Soltsice/Soltsice) - Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.
 - [TypeChain](https://github.com/ethereum-ts/TypeChain) - TypeScript bindings for Ethereum smart contracts.
 
 #### Rust
@@ -360,7 +352,6 @@
 - [Solidity + Hardhat](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity) - Adds IDE support for contract development with formatting, linting, snippets, references, and more.
 - [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten contracts using `truffle-flattener`.
 - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Security-centric syntax and semantic highlighting, detailed class outlines, UML diagram generation, and more.
-- [Truffle for VS Code](https://marketplace.visualstudio.com/items?itemName=trufflesuite-csi.truffle-vscode) - Truffle for VS Code simplifies how you create, build, debug and deploy smart contracts on Ethereum and all EVM-compatible blockchains and layer 2 scaling solutions.
 - [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
 
 ---
