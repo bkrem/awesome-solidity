@@ -237,6 +237,7 @@
 #### General
 
 - [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
+- [contract::rw](https://contractrw.dev/) - Browser console to read/write any EVM contract from an ABI on any chain or custom RPC; includes selector and calldata decoding.
 - [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating JavaScript modules from contracts for decentralized apps.
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Command-line-friendly tools for blockchain development.
