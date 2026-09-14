@@ -224,6 +224,8 @@
 #### General
 
 - [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
+- [ChainBench/OpenChainBench](https://github.com/ChainBench/OpenChainBench) - Continuous benchmarks for RPC provider latency, stale-state probability, and L1/L2 finality across 20+ EVM chains. Useful for infrastructure selection and integration testing.
+- [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating JavaScript modules from contracts for decentralized apps.
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Command-line-friendly tools for blockchain development.
 - [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View the source of deployed Ethereum contracts in VS Code.
