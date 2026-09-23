@@ -184,6 +184,7 @@
 ## Libraries
 
 - [pCwOrM/werracle](https://github.com/pCwOrM/werracle) - Zero-storage on-chain AI decision oracle fitting inside a single 32-byte slot with pure Q16.16 fixed-point math.
+- [pCwOrM/werracle](https://github.com/pCwOrM/werracle) - Zero-storage on-chain AI decision oracle fitting inside a single 32-byte slot with pure Q16.16 fixed-point math.
 - [0age/AttributeRegistry](https://github.com/0age/AttributeRegistry) - ERC-1616 Attribute Registry standard interface, tests, and implementation.
 - [0age/HomeWork](https://github.com/0age/HomeWork) - Autonomous utility for finding, sharing, and reusing home addresses for contracts.
 - [0age/Spawner](https://github.com/0age/Spawner) - Spawn EIP 1167 minimal proxies with an included initialization step during contract creation.
