@@ -221,6 +221,7 @@
 
 #### General
 
+- [alloy-rs/core](https://github.com/alloy-rs/core) - High-performance Ethereum primitives and library written in Rust for EVM development.
 - [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
 - [ChainBench/OpenChainBench](https://github.com/ChainBench/OpenChainBench) - Continuous benchmarks for RPC provider latency, stale-state probability, and L1/L2 finality across 20+ EVM chains. Useful for infrastructure selection and integration testing.
 - [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating JavaScript modules from contracts for decentralized apps.
