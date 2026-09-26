@@ -232,6 +232,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete dApp development environment as a Docker image you can run from the command line.
+- [Kerne Verify Anything](https://kerne.fi/verify-anything) - Paste any Base or Ethereum stablecoin address and recompute its on-chain backing and ERC-4626 vault accounting in the browser, client-side, with no login.
 - [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
 - [lfglabs-dev/verity](https://github.com/lfglabs-dev/verity) - Lean 4 framework for specifying and proving smart contract properties, with EVM-oriented output.
 - [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
