@@ -110,6 +110,7 @@
 - [Code4rena](https://code4rena.com/) - Auditors compete to identify and eliminate high-severity bugs before production.
 - [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
 - [Hacken](https://hacken.io/audits/) - Public security audits by the Hacken Team.
+- [Hackerbane](https://hackerbane.com/reports) - Public security reviews by the Hackerbane Team.
 - [Immunefi](https://immunefi.com/) - Bug bounty platform focused on blockchain and smart contract security.
 - [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
 - [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
