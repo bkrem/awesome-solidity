@@ -278,6 +278,7 @@
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [MythX](https://mythx.io/) - Detect security vulnerabilities in Ethereum smart contracts throughout the development lifecycle.
 - [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
+- [VexQuill Contract Audit API](https://x402-audit-api.vexquill.deno.net) - Pay-per-call smart contract security scanner, $0.005 USDC per audit on Base. 14 static analysis checks.
 
 #### DevOps
 
