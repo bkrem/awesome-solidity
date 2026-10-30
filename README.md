@@ -89,6 +89,7 @@
 - [How to create an ERC20 Token and a Solidity Vendor Contract (medium.com, Emanuele Ricci, 2021)](https://stermi.medium.com/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-8882808dd905) - Create your own ERC20 token and a vendor contract to handle the sell and buy process.
 - [soliditydeveloper.com/blog](https://soliditydeveloper.com/blog) - Concepts, guides, design patterns, and more.
 - [The Complete Guide to Full Stack Ethereum Development (dev.to, Nader Dabit, 2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - Build full-stack dApps with React, Ethers.js, contracts, and Hardhat.
+- [The YouTube MEV Bot Scam: How the "Remix Contract" Drains Your ETH (mevdao.org, MEV DAO, 2026)](https://mevdao.org/blog/the-youtube-mev-bot-scam-how-the-remix-contract-drains-your-eth) - Breakdown of the fake MEV bot contracts promoted in YouTube tutorials, how they hide the attacker address, and what to do after deploying one.
 
 #### Security
 
