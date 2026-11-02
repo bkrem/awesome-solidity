@@ -120,6 +120,7 @@
 
 ##### Educational
 
+- [Aboudjem/solidity-style-guide](https://github.com/Aboudjem/solidity-style-guide) - Style guide for 0.8.30 covering naming, layout, NatSpec, custom errors, and Foundry tests, with Solhint and Prettier configs.
 - [alephao/solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular implementations of ERC standards.
 - [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
