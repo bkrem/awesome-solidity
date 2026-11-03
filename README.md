@@ -277,6 +277,7 @@
 - [ethereum/sourcify](https://github.com/ethereum/sourcify) - Re-compiler for verifying that bytecode corresponds to specific source code.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [MythX](https://mythx.io/) - Detect security vulnerabilities in Ethereum smart contracts throughout the development lifecycle.
+- [Pashov Audit Group Skills](https://github.com/pashov/skills) - AI agent skills for security audits, pre-audit threat models and Echidna/Medusa fuzz suites.
 - [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
 
 #### DevOps
