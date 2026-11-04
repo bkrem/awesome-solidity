@@ -121,6 +121,7 @@
 ##### Educational
 
 - [alephao/solidity-benchmarks](https://github.com/alephao/solidity-benchmarks) - Benchmarks of popular implementations of ERC standards.
+- [basantzp/100-solidity-projects](https://github.com/basantzp/100-solidity-projects) - Master curriculum of 100 production-ready smart contracts across 10 EVM pillars with 201 Foundry invariant tests.
 - [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
 - [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - Collection of patterns and best practices for smart contract development.
