@@ -175,6 +175,7 @@
 #### Jobs
 
 - [aworker.io](https://aworker.io/) - Job board for blockchain and cryptocurrency jobs.
+- [chainjobs.app](https://chainjobs.app/) - Free Web3 and freelance job board with direct chat and 0% platform commission.
 - [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - Job board for blockchain and cryptocurrency jobs.
 - [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
 - [web3.career](https://web3.career) - Job board for blockchain and cryptocurrency jobs.
