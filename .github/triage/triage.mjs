@@ -60,8 +60,9 @@ export function parseEntries(readme) {
   return entries;
 }
 
-// Entries that head adds relative to base. An added entry whose name matches a
-// removed entry is an edit of that entry and is marked `modified`.
+// Entries that head adds relative to base. An added entry is marked `modified`
+// (an edit, rename, or repoint of a listed entry) when a removed entry shares
+// its name, its URL, or its sub-category.
 export function diffEntries(baseReadme, headReadme) {
   const base = parseEntries(baseReadme);
   const head = parseEntries(headReadme);
@@ -73,10 +74,19 @@ export function diffEntries(baseReadme, headReadme) {
     if (n > 0) remaining.set(e.raw, n - 1);
     else added.push(e);
   }
-  const removedNames = new Set(
-    base.filter((e) => (remaining.get(e.raw) ?? 0) > 0).map((e) => e.name.toLowerCase()),
-  );
-  return added.map((e) => ({ ...e, modified: removedNames.has(e.name.toLowerCase()) }));
+  const place = (e) => `${e.section}\n${e.subsection}`;
+  const removed = new Set();
+  for (const e of base) {
+    if ((remaining.get(e.raw) ?? 0) === 0) continue;
+    removed.add(`name:${e.name.toLowerCase()}`).add(`url:${normalizeUrl(e.url)}`).add(`place:${place(e)}`);
+  }
+  return added.map((e) => ({
+    ...e,
+    modified:
+      removed.has(`name:${e.name.toLowerCase()}`) ||
+      removed.has(`url:${normalizeUrl(e.url)}`) ||
+      removed.has(`place:${place(e)}`),
+  }));
 }
 
 function plural(n, word) {

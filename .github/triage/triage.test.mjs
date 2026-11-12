@@ -174,6 +174,22 @@ test('decide does not treat an edit or a removal as a duplicate or a new entry',
   assert.match(result.notes.join('\n'), /No new list entries/);
 });
 
+test('decide sends a rename that keeps the URL to review', () => {
+  const renamed = BASE_README.replace('[Slither](', '[crytic/slither](');
+  const result = decideFor(renamed, { 'crytic/slither': goodRepo() });
+  assert.equal(result.action, 'review');
+  assert.match(result.notes.join('\n'), /edit of an existing entry/);
+});
+
+test('decide sends a repoint with a new name and URL to review', () => {
+  const repointed = BASE_README.replace(
+    '- [Lib](https://github.com/acme/lib) - Library for things.',
+    '- [Lib 2](https://github.com/acme/lib-2) - Library for things.',
+  );
+  const result = decideFor(repointed, { 'acme/lib-2': goodRepo({ stargazers_count: 0 }) });
+  assert.equal(result.action, 'review');
+});
+
 test('decide keeps a PR open when one of several new entries is sound', () => {
   const head = withLine(AUDIT_ANCHOR, `${NEW_TOOL}\n- [oldtool](https://github.com/dev/oldtool) - Old thing.`);
   const result = decideFor(head, {
