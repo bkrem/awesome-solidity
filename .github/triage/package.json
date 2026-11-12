@@ -1,0 +1,8 @@
+{
+  "name": "awesome-solidity-triage",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}

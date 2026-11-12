@@ -1,0 +1,53 @@
+name: Triage
+
+# Runs only when the repository owner asks for it: by adding the `triage` label
+# to a pull request, or by starting the workflow by hand with a PR number.
+# pull_request_target gives a write token on fork PRs, so this workflow reads PR
+# data through the API and never checks out or runs PR code.
+on:
+  pull_request_target:
+    types: [labeled]
+  workflow_dispatch:
+    inputs:
+      pr:
+        description: Pull request number
+        required: true
+        type: number
+      dry_run:
+        description: Report the decision without commenting or closing
+        type: boolean
+        default: true
+
+permissions: {}
+
+concurrency:
+  group: triage-${{ github.event.pull_request.number || inputs.pr }}
+  cancel-in-progress: false
+
+jobs:
+  triage:
+    if: >-
+      github.actor == github.repository_owner &&
+      (github.event_name == 'workflow_dispatch' ||
+      (github.event.label.name == 'triage' && github.event.sender.login == github.repository_owner))
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Check out the triage script from the default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: .github/triage
+          persist-credentials: false
+      - name: Triage the pull request
+        run: node .github/triage/triage.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          # Optional personal access token; when set, the `@codex review` comment is posted with it.
+          CODEX_TRIGGER_TOKEN: ${{ secrets.CODEX_TRIGGER_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
