@@ -115,6 +115,7 @@
 - [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
 - [SpearbitDAO](https://github.com/spearbit/portfolio) - Public security audits by the SpearbitDAO Team.
 - [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Public security audits by the Trail of Bits Team.
+- [Zealynx Security](https://www.zealynx.io/audits) - Public smart contract security audit reports by Zealynx Security.
 
 #### Examples
 
