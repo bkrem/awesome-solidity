@@ -277,6 +277,7 @@
 - [ethereum/sourcify](https://github.com/ethereum/sourcify) - Re-compiler for verifying that bytecode corresponds to specific source code.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
 - [MythX](https://mythx.io/) - Detect security vulnerabilities in Ethereum smart contracts throughout the development lifecycle.
+- [ownerwatch](https://github.com/imal1ice/ownerwatch) - Maps who can upgrade, pause or drain an EVM contract — owners, proxy admins, Safe signers, timelocks and EIP-2535 diamonds — and alerts when that control surface changes. CLI, GitHub Action and MCP server.
 - [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
 
 #### DevOps
