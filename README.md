@@ -98,7 +98,7 @@
 - [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material for writing secure smart contracts.
 - [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) - Minimal example implementations of ERC20 tokens with surprising/unexpected behaviour.
 - [Ethereum Smart Contract Security Best Practices (Consensys)](https://consensys.github.io/smart-contract-best-practices/) - General security philosophy, known attacks, and sample code.
-- [How to Break Into Blockchain Security](https://smartcontractshacking.com/learn/security/how-to-break-into-blockchain-security) - A study path for Solidity developers covering review practice, portfolio work, and AI-assisted auditing.
+- [How to Break Into Blockchain Security](https://smartcontractshacking.com/learn/security/how-to-break-into-blockchain-security) - Study path covering review practice, portfolio work, and AI-assisted auditing.
 - [OriginProtocol/security](https://github.com/OriginProtocol/security) - Materials related to security: docs, checklists, processes.
 - [Rari-Capital/security-checklist](https://github.com/Rari-Capital/security-checklist) - Opinionated security and code quality checklist for smart contracts.
 - [SecDim](https://secdim.com) - Online edutainment platform with real-world smart contract security content and AppSec games.
