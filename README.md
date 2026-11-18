@@ -76,6 +76,7 @@
 - [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Cheat sheet and best practices.
 - [nishuzumi/Web3-Enterprise-level-engineering](https://github.com/nishuzumi/Web3-Enterprise-level-engineering) - Web3 Enterprise Engineering Writing Specification Tutorial [Chinese Language - 中文版].
 - [Questbook](https://www.questbook.app/) - University DAO offering free crypto-dev courses by leading developers.
+- [RedDuck Academy](https://academy.redduck.io/) - EVM smart contract lessons with runnable examples, based on RedDuck's developer onboarding curriculum.
 - [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review both languages side by side.
 - [topmonks/solidity_quick_ref](https://topmonks.github.io/solidity_quick_ref/) - Syntax overview.
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - Curated list of free community tutorials built around specific projects, tasks, and challenges.
