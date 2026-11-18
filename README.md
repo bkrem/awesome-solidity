@@ -191,6 +191,7 @@
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities.
 - [dapphub/dappsys](https://github.com/dapphub/dappsys) - Contract system framework for flexible multi-contract dapps.
 - [dmihal/hardhat-interface-generator](https://github.com/dmihal/hardhat-interface-generator) - Hardhat plugin to automatically generate interfaces from code.
+- [ERC-3643/ERC-3643](https://github.com/ERC-3643/ERC-3643) - T-REX contracts implementing ERC-3643, the permissioned token standard with onchain identity and transfer compliance checks.
 - [EthWorks/Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts.
 - [hifi-finance/prb-math](https://github.com/hifi-finance/prb-math) - Smart contract library for advanced fixed-point math.
 - [ItsNickBarry/hardhat-abi-exporter](https://github.com/ItsNickBarry/hardhat-abi-exporter) - Export contract ABIs on compilation via Hardhat.
