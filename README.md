@@ -180,6 +180,7 @@
 - [aworker.io](https://aworker.io/) - Job board for blockchain and cryptocurrency jobs.
 - [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - Job board for blockchain and cryptocurrency jobs.
 - [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
+- [jobsincrypto.net](https://jobsincrypto.net) - Crypto and web3 job board, roles read daily from 540+ companies' own career pages.
 - [web3.career](https://web3.career) - Job board for blockchain and cryptocurrency jobs.
 - [web3vacancy.com](https://web3vacancy.com) - Crypto & Web3 job board for builders and crypto teams.
 
