@@ -68,6 +68,7 @@
 #### Tutorials
 
 - [buildspace.so](https://buildspace.so/) - Hands-on Web3 course for beginners. Free, with an NFT on completion.
+- [Coddy](https://coddy.tech/landing/solidity) - Free interactive course that runs contracts in the browser, from variables and mappings to events and require/revert, with no wallet needed.
 - [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite people interested in blockchain and crypto technologies.
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) - Complete course that walks through building a decentralized Twitter clone using best practices.
