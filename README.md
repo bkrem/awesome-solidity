@@ -274,6 +274,7 @@
 - [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
 - [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
 - [tintinweb/solgrep](https://github.com/tintinweb/solgrep) - Scriptable semantic grep utility.
+- [trxvanity/uniswap-v4-hook-decoder](https://trxvanity.xyz/tools/uniswap-v4-hook-decoder) - Client-side decoder for all 14 Uniswap v4 Hook permission bits (`0x3FFF`) and offline EIP-1014 CREATE2 salt verification.
 
 #### Audit
 
